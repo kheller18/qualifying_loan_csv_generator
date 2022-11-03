@@ -102,7 +102,18 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+# def csvWrite(loans):
+#   header = ["loan_price", "remaining_months", "repayment_interval", "future_value"]
+#   output_path = Path("inexpensive_loans.csv")
 
+#   with open(output_path, "w") as csvfile:
+#     csvwriter = csv.writer(csvfile, delimiter=",")
+#     csvwriter.writerow(header)
+#     for loan in loans:
+#       csvwriter.writerow(loan.values())
+#   return
+
+csvWrite(inexp_loans_output)
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
@@ -111,7 +122,14 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
-    user_save = questionary.text("Would you like to save your qualifying loans? (y/n)").ask()
+
+    if len(qualifying_loans) == 0:
+      print(f"You are not able to qualify for any loans, therefore, there is no file to save")
+    elif len(qualifying_loans) > 0:
+      user_save = questionary.confirm("Would you like to save your qualifying loans?").ask()
+      if user_save == True:
+        # save_location = questionary.
+        print(f"{qualifying_loans}")
     return
 
 
