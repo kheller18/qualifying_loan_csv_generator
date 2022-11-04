@@ -1,0 +1,3521 @@
+   50  gid add -a
+   51  git add -A
+   52  git status
+   53  git commit -m "This i sour final commit"
+   54  git push
+   55  cd Desktop
+   56  cd
+   57  cd Deskiptop
+   58  cd Desktop
+   59  git clone https://github.com/kheller18/zen-garden.git
+   60  ls
+   61  cd zen-garden
+   62  touch index.html
+   63  ls
+   64  cd index.html
+   65  code . index.html
+   66  ls
+   67  git status
+   68  git add -A
+   69  git status
+   70  git commit -m "the newest commit"
+   71  git push
+   72  cd
+   73  cd Desktop
+   74  git clone 200~git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git-
+   75  .ssh/id_rsa.pub
+   76  pwd
+   77  cd .ssh/id_rsa.pub
+   78  ls -al ~/.ssh
+   79  cd
+   80  ls
+   81  ssh-keygen -t rsa -b 4096 -C "keenanaheller@gmail.com"
+   82  eval "$(ssh-agent -s)"
+   83  ssh-add -K ~/.ssh/id_rsa
+   84  pbcopy < ~/.ssh/id_rsa.pub
+   85  cd Desktop
+   86  200~git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git~
+   87  git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git
+   88  https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git
+   89  cd Desktop
+   90  git clone https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git
+   91  ls
+   92  cd uw-blv-fsf-pt-06-2020-u-c
+   93  ls
+   94  cd 01-HTML-Git-CSS
+   95  ls
+   96  cd 02-Homework
+   97  ls
+   98  cd Develop
+   99  ls
+  100  code .
+  101  ls
+  102  cd Desktop
+  103  ls
+  104  cd uw-blv-fsf-pt-06-2020-u-c
+  105  ls
+  106  cd 01-HTML-Git-CSS
+  107  ls
+  108  cd 02-Homework
+  109  ls
+  110  open README.md
+  111  ls
+  112  cd Develop
+  113  ls
+  114  cd Desktop
+  115  git clone https://github.com/kheller18/kheller18.github.io.git
+  116  cd 
+  117  cd Desktop
+  118  git clone https://github.com/kheller18/kheller18.github.io.git
+  119  cd
+  120  ls
+  121  cd Desktop
+  122  cd Practice
+  123  touch style.css
+  124  ls
+  125  cd
+  126  cd Desktop
+  127  ls
+  128  cd uw-blv-fsf-pt-06-2020-u-c
+  129  ls
+  130  cd 01-HTML-Git-CSS
+  131  cd
+  132  ls
+  133  cd 01-HTML-Git-CSS
+  134  cd 
+  135  ls
+  136  cd Desktop
+  137  cd uw-blv-fsf-pt-06-2020-u-c
+  138  ls
+  139  cd 01-HTML-Git-CSS
+  140  ls
+  141  cd 02-Homework
+  142  ls
+  143  cd Develop
+  144  ls
+  145  cd assets
+  146  ls
+  147  cd
+  148  ls
+  149  cd Desktop
+  150  ls
+  151  cd uw-blv-fsf-pt-06-2020-u-c
+  152  ls
+  153  cd 01-HTML-Git-CSS
+  154  ls
+  155  cd 02-Homework
+  156  ls
+  157  cd Develop
+  158  ls
+  159  git status
+  160  git add -A
+  161  ls
+  162  git init
+  163  git add -A
+  164  ls
+  165  git status
+  166  git add -A
+  167  git status
+  168  git commit
+  169  ls
+  170  cd Desktop
+  171  ls
+  172  cd uw-blv-fsf-pt-06-2020-u-c
+  173  ls
+  174  cd 01-HTML-Git-CSS
+  175  ls
+  176  cd 02-Homework
+  177  ls
+  178  cd Develop
+  179  ls
+  180  git status
+  181  git add -A
+  182  git satus
+  183  git status
+  184  cd Desktop
+  185  cd uw-blv-fsf-pt-06-2020-u-c
+  186  ls
+  187  cd 01-HTML-Git-CSS
+  188  ls
+  189  cd 02-Homework
+  190  cd
+  191  ls
+  192  cd Desktop
+  193  ls
+  194  cd uw-blv-fsf-pt-06-2020-u-c
+  195  ls
+  196  cd 01-HTML-Git-CSS
+  197  cd 02-Homework
+  198  ls
+  199  cd Develop
+  200  status
+  201  cd status
+  202  ls
+  203  cd status
+  204  git status
+  205  git add-A
+  206  git Add -A
+  207  git add -A
+  208  git status
+  209  git commit -m  "Updated HTML4 to HTML5 Semantic Format"
+  210  git push
+  211  git push https://github.com/kheller18/bootcamp-homework-1/upload/master
+  212  git push --set-upstream https://github.com/kheller18/bootcamp-homework-1/upload/master master
+  213  git push https://github.com/kheller18/bootcamp-homework-1
+  214  git push --set-upstream https://github.com/kheller18/bootcamp-homework-1 master
+  215  git clone https://github.com/kheller18/bootcamp-homework-1.git
+  216  git status
+  217  git add -A
+  218  cd Desktop
+  219  cd
+  220  cd Desktop
+  221  git clone https://github.com/kheller18/bootcamp-homework-1.git
+  222  git status
+  223  cd
+  224  ls
+  225  cd Desktop
+  226  ls
+  227  cd bootcamp-homework-1
+  228  ls
+  229  git status
+  230  git add -A
+  231  git status
+  232  git commit -m "Changed HTML4 to HTML5 Sematic Format"
+  233  git push
+  234  ls
+  235  cd Desktop
+  236  git clone "git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git"
+  237  git pull "git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git"
+  238  ls
+  239  Cd uw-blv-fsf-pt-06-2020-u-c
+  240  git pull git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git
+  241  ls
+  242  cd uw-blv-fsf-pt-06-2020-u-c
+  243  git pull git@uwa.bootcampcontent.com:UWA-Bootcamp/uw-blv-fsf-pt-06-2020-u-c.git
+  244  cd
+  245  cd uw-blv-fsf-pt-06-2020-u-c
+  246  cd Desktop
+  247  cd uw-blv-fsf-pt-06-2020-u-c
+  248  ls
+  249  cd 02-CSS-Bootstrap
+  250  ls
+  251  02-Homework
+  252  ls
+  253  cd Desktop
+  254  cd
+  255  cd Desktop
+  256  npm install bootstrap
+  257  cd Desktop
+  258  cd bootcamp-homework-2
+  259  git clone https://github.com/kheller18/bootcamp-homework-2.git
+  260  ls
+  261  cd Desktop
+  262  ls
+  263  cd bootcamp-homework-2
+  264  git add -A
+  265  git status
+  266  cd
+  267  cd Desktop
+  268  git clone https://github.com/kheller18/bootcamp-homework-2.git
+  269  cd bootcamp-homework-2
+  270  git status
+  271  git add -A
+  272  git status
+  273  git commit -m "Uploading homework 2"
+  274  git push
+  275  git status
+  276  cd Desktop
+  277  cd
+  278  ls
+  279  cd Desktop
+  280  git clone https://github.com/kheller18/bootcamp-homework-3.git
+  281  ls
+  282  cd uw-blv-fsf-pt-06-2020-u-c
+  283  git status
+  284  git pull
+  285  cd
+  286  cd Desktop
+  287  cd bootcamp-homework-3
+  288  git status
+  289  git add -A
+  290  git status
+  291  git commit -m "Making first commit, includes partially built interface and functions"
+  292  git push
+  293  cd
+  294  cd Desktop
+  295  cd uw-blv-fsf-pt-06-2020-u-c
+  296  git pull
+  297  cd
+  298  cd Desktop
+  299  git clone https://github.com/kheller18/bootcamp-homework-4.git
+  300  cd
+  301  cd Desktop
+  302  ls
+  303  cd bootcamp-homework-3
+  304  git status
+  305  git add -A
+  306  git status
+  307  git commit -m "Added function to power alerts, prompts, confirms, and password generation."
+  308  git status
+  309  git push
+  310  git status
+  311  git add -A
+  312  git status
+  313  git commit -m "Added error handling if no character types were selected by the user.  Added minor css revisions."
+  314  git push
+  315  git status
+  316  git add -A
+  317  git status
+  318  git commit -m "Added comments and reorganized javascript for better visibility"
+  319  git push
+  320  git status
+  321  git add -A
+  322  git status
+  323  git commit -m "added comments to html and changed some html to sementac."
+  324  git push
+  325  git status
+  326  git add -A
+  327  git status
+  328  git commit -m "attempt to get rid of 404 error."
+  329  git push
+  330  ls
+  331  cd
+  332  cd Desktop
+  333  ls
+  334  cd uw-blv-fsf-pt-06-2020-u-c
+  335  git pull
+  336  cd
+  337  cd Desktop
+  338  cd bootcamp-homework-3
+  339  git status
+  340  git add -A
+  341  git status
+  342  git commit -m "Updated the ReadMe file for deployment"
+  343  git push
+  344  git status
+  345  git add -A
+  346  git status
+  347  git commit -m "Updated javascript for visibility reasons"
+  348  git push
+  349  git status
+  350  git add -A
+  351  git commit -m "fixed 404 error"
+  352  git push
+  353  cd
+  354  cd Desktop
+  355  cd bootcamp-homework-4
+  356  git status
+  357  git add -A
+  358  git status
+  359  git commit -m "initial commit. uploading files."
+  360  git push
+  361  git status
+  362  git add -A
+  363  git status
+  364  git commit -m "built rough front page and added some initial functions in javascript."
+  365  git push
+  366  cd
+  367  cd Desktop
+  368  cd bootcamp-homework-4
+  369  git status
+  370  git add -A
+  371  git status
+  372  git commit -m "expanded html to include more pages. Updated css to match and added javascript funcitons"
+  373  git push
+  374  git status
+  375  git add -A
+  376  git status
+  377  git commit -m "added javascript timer functions, results and more.  Modified html to hold the javascript"
+  378  git push
+  379  git status
+  380  git add -A
+  381  git status
+  382  git commit -m "added more javascript functions including storing a user's result in local memory"
+  383  git push
+  384  cd Desktop
+  385  cd bootcamp-homework-4
+  386  git status
+  387  git add -A
+  388  git status
+  389  git commit -m "Added function to store all highscores to memory and print them to high scores screen"
+  390  git push
+  391  git status
+  392  git add -A
+  393  git status
+  394  git commit -m "pushing to work on styling.Added minor changes to javascript function"
+  395  git push
+  396  git status
+  397  git add -A
+  398  git commit -m "fixed some bugs in javascript functions"
+  399  git push
+  400  git status
+  401  git add -A
+  402  git commit -m "cleaned up javascript"
+  403  git push
+  404  git add -A
+  405  git commit - m "added some styling"
+  406  git push
+  407  git add -A
+  408  git commit -m "added some styling"
+  409  git push
+  410  git status
+  411  git add -a
+  412  git add -A
+  413  git commit "added bar at the bottom displaying correct/incorrect"
+  414  git push
+  415  git add -A
+  416  git status
+  417  git commit -m "added function that stores and displays correct/false answers"
+  418  git push
+  419  git status
+  420  git add -A
+  421  git add -m "fully functional application"
+  422  git status
+  423  git commit -m "fully functional application. Will add comments next"
+  424  git push
+  425  git status
+  426  git add -A
+  427  git commit -m "consolidated code and added comments"
+  428  git push
+  429  git status
+  430  git add -A
+  431  git commit -m "updated read me and deleted unused pictures."
+  432  git push
+  433  cd
+  434  cd Desktop
+  435  ls
+  436  cd bootcamp-homeworks
+  437  git clone "https://github.com/kheller18/daily-calendar.git"
+  438  cd
+  439  cd Desktop
+  440  cd uw-blv-fsf-pt-06-2020-u-c
+  441  git pull
+  442  cd
+  443  cd Desktop
+  444  cd bootcamp-homeworks
+  445  git status
+  446  cd daily-calendar
+  447  git status
+  448  git add -A
+  449  git commit -m "uploading initial files"
+  450  git push
+  451  git status
+  452  git add -A
+  453  git commit -m "created script.js file. Created rough calendar format." 
+  454  git push
+  455  git status
+  456  git add -A
+  457  git commit -m "updated calendar formatting and labels"
+  458  git push
+  459  git add -A
+  460  git commit -m "created javascript function getting the current date and time of user"
+  461  git push
+  462  git add -A
+  463  git commit -m "develop button click function"
+  464  git push
+  465  git status
+  466  git add -A
+  467  git commit -m "partially built setbackground function"
+  468  git push
+  469  git add -A
+  470  git commit -m "stores and gets events for each time slot correctly"
+  471  git push
+  472  git add -A
+  473  git commit -m "updated javascript functions to better handle background color assigning"
+  474  git push
+  475  git status
+  476  git add -A
+  477  git commit -m "added more to functions to properly run and update based on time."
+  478  git push
+  479  cd
+  480  ls
+  481  cd Desktop
+  482  ls
+  483  cd bootcamp-homeworks
+  484  git clone "https://github.com/kheller18/weather-dashboard.git"
+  485  ls
+  486  cd weather-dashboard
+  487  git status
+  488  git add-A
+  489  git add -A
+  490  git commit -m "uploading blank files"
+  491  git push
+  492  git add -A
+  493  git commit -m "added header. made API call and ensured proper functionality."
+  494  git push
+  495  git status
+  496  git add -A
+  497  git commit -m "Built multiple fetch's to gather all data needed for display"
+  498  git push
+  499  cd Desktop
+  500  cd bootcamp-homeworks
+  501  cd daily-calendar
+  502  git add -A
+  503  git commit -m "added javascript functions to display past searches, display forecast data for each card, and save cities searched to local storage"
+  504  git push
+  505  git add -A
+  506  git commit -m "added javascript function to display cities uppercase. partially formatted date, cleaned up today's weather display"
+  507  git push
+  508  ../
+  509  cd weather-dashboard
+  510  git status
+  511  git add -A
+  512  git commit "added javascript function to display cities uppercase. partially formatted date, cleaned up today's weather display"\n
+  513  git commit -m "added javascript function to display cities uppercase. partially formatted date, cleaned up today's weather display"\n
+  514  git push
+  515  git status
+  516  git add -A
+  517  git commit -m  "added function to format dates correctly.  Built function to display forecast with icons"
+  518  git push
+  519  git status
+  520  git add -A
+  521  git commit em "added function to make previous searches display weather data when clicked"
+  522  git commit -m "added function to make previous searches display weather data when clicked"
+  523  git push
+  524  git add -A
+  525  git commit -m "made styling changes"
+  526  git push
+  527  git add -A
+  528  git commit -m "added function to display background color of uv value based on lying between a range of values"
+  529  git push
+  530  cd
+  531  cd Desktop
+  532  cd uw-blv-fsf-pt-06-2020-u-c
+  533  git pull
+  534  cd
+  535  cd Desktop
+  536  cd bootcamp-homeworks
+  537  cd weather-dashboard
+  538  ../
+  539  cd daily-calendar
+  540  git status
+  541  git add -A
+  542  git commit -m "updated background color function to display correct colors. centered the elements on the screen"
+  543  git push
+  544  git add -A
+  545  git commit -m "cleaned up css file"
+  546  git push
+  547  git status
+  548  git add -A
+  549  git commit -m "modified folder structure"
+  550  git push
+  551  git add -A
+  552  git commit -m "changed folder structure"
+  553  git push
+  554  git add -A
+  555  git commit -m "changed structure again"
+  556  git push
+  557  git status
+  558  git add -A
+  559  git commit -m "more file structure changes"
+  560  git push
+  561  git pull
+  562  cd
+  563  cd Desktop
+  564  cd bootcamp-homeworks
+  565  cd weather-dashboard
+  566  git add -A
+  567  git commit -m "found a better weather API that contains all data I need. Updated code to match.\n\n\n"
+  568  git push
+  569  git add -A
+  570  git commit -m "updated styling"
+  571  git push
+  572  git add -A
+  573  git commit -m "deleted readme"
+  574  git push
+  575  git add -A
+  576  git commit -m "fixed html"
+  577  git push
+  578  git add -
+  579  git add -A
+  580  git commit "added jquery handle"
+  581  git commit -m "added jquery handle"
+  582  git push
+  583  git add -A
+  584  git commit -m "added function to clear search box and updated style"
+  585  git push
+  586  cd
+  587  cd Desktop
+  588  cd bootcamp-homeworks
+  589  git clone "https://github.com/Zarlengo/Project_1.git"
+  590  cd Desktop
+  591  cd bootcamp-homeworks
+  592  ls
+  593  cd Project_1
+  594  git pull
+  595  git checkout -b settings-page
+  596  git branch
+  597  cd Desktop
+  598  cd bootcamp-homeworks
+  599  cd Project_1
+  600  git push origin settings-page
+  601  git commit -m "created settings structure"
+  602  git add -A
+  603  git status
+  604  git commit -m "created user settings structure"
+  605  git push origin settings-page
+  606  cd
+  607  cd Desktop
+  608  cd bootcamp-homeworks
+  609  cd weather-dashboard
+  610  git add -A
+  611  git commit -m "added comments and readme file"
+  612  git push
+  613  git add -A
+  614  git commit -m "updated README and added a photo of the front page"
+  615  git push
+  616  git add -A
+  617  git commit -m "cleaned formatting"
+  618  git push
+  619  git add -A
+  620  git commit -m "fix minor changes"
+  621  git push
+  622  git add -A
+  623  git commit -m "changed http to https"
+  624  git push
+  625  git add -A
+  626  git commit -m "updated http"
+  627  git push
+  628  git add -A
+  629  git commit -m "added http handler"
+  630  git push
+  631  cd Desktop
+  632  cd bootcamp-homeworks
+  633  cd Project_1
+  634  git add -A
+  635  git status
+  636  git commit -m "added settings page"
+  637  git push
+  638  git push origin settings-page
+  639  git pull
+  640  git status
+  641  git add -A
+  642  git commit -m "fixed potential css conflict"
+  643  git push origin settings-page
+  644  git status
+  645  git add -A
+  646  git commit -m "fixed potential css conflicts"
+  647  git push origin settings-page
+  648  git add -A
+  649  git commit -m "hid modal on default"
+  650  git push origin settings-page
+  651  git branch -D settings-page
+  652  git pull master
+  653  .//
+  654  ../
+  655  git switch -c master
+  656  cd Project_1
+  657  git switch -c master
+  658  git switch master
+  659  git pull
+  660  git checkout -b detailed-search-page
+  661  git status
+  662  git add -A
+  663  git commit -m "added search navbar and results"
+  664  git push origin detailed-search-page
+  665  cd Desktop
+  666  cd bootcamp-homeworks
+  667  cd Project_1
+  668  git add -A
+  669  git commit -m "added browse menu and more search functions. Included filtering option"
+  670  git push origin detailed-search-page
+  671  git add -A
+  672  git commit -m "added more search features"
+  673  git push origin detailed-search-page
+  674  git branch -d detailed-search-page
+  675  ../
+  676  cd Project_1
+  677  git branch -D detailed-search-page
+  678  git switch master
+  679  git pull
+  680  cd
+  681  cd Desktop
+  682  cd uw-blv-fsf-pt-06-2020-u-c
+  683  git pull
+  684  cd
+  685  node
+  686  node index.js
+  687  cd
+  688  node
+  689  cd Desktop
+  690  cd uw
+  691  cd uw-blv-fsf-pt-06-2020-u-c
+  692  cd 09-NodeJS
+  693  cd Ins_Node-Demo
+  694  ls
+  695  cd 01-Activities
+  696  ls
+  697  cd 01-Ins_Node-Demo
+  698  ls
+  699  node index.js
+  700  cd
+  701  cd Desktop
+  702  cd bootcamp-homeworks
+  703  git clone "https://github.com/kheller18/portfolio.git"
+  704  cd portfolio
+  705  git add -A
+  706  git status
+  707  git commit -m "uploading blank files for initial commit"
+  708  git push
+  709  git add -A
+  710  git commit -m "created basic outline and added files"
+  711  git push
+  712  cd Desktop
+  713  cd bootcamp-homeworks
+  714  cd Project_1
+  715  git pull
+  716  cd Desktop
+  717  cd bootcamp-homeworks
+  718  cd portfolio
+  719  git add -A
+  720  git commit -m "updated home page"
+  721  git push
+  722  git add -A
+  723  git commit -m "updated design of front page and other sections."
+  724  git push
+  725  git add -A
+  726  git commit -m "added an about me section"
+  727  git push
+  728  git add -A
+  729  git commit -m "added portfolio section"
+  730  git push
+  731  git add -A
+  732  git commit -m "added contact page and more to porfolio section"
+  733  git push
+  734  cd
+  735  cd Desktop
+  736  cd uw-blv-fsf-pt-06-2020-u-c
+  737  git pull
+  738  cd
+  739  cd Desktop
+  740  cd bootcamp-homeworks
+  741  cd portfolio
+  742  git add -A
+  743  git commit -m "added styling to main page and updated contact page"
+  744  git push
+  745  cd
+  746  cd Desktop
+  747  cd uw-blv-fsf-pt-06-2020-u-c
+  748  git pull
+  749  cd
+  750  cd Desktop
+  751  cd bootcamp-homeworks
+  752  cd portfolio/
+  753  git add -A
+  754  git commit -m "minor change"
+  755  git push
+  756  cd
+  757  cd Desktop
+  758  cd bootcamp-homeworks
+  759  git clone "https://github.com/kheller18/readme-generator.git"
+  760  ls
+  761  cd 01-Activities
+  762  ls
+  763  cd 01-Stu_Cats-And-Dogs
+  764  node
+  765  node rainingCatsAndDogs-noCon.js
+  766  .exit
+  767  cd
+  768  .node
+  769  node
+  770  cd Desktop
+  771  cd uw-blv-fsf-pt-06-2020-u-c
+  772  ls
+  773  cd 10-OOP
+  774  ls
+  775  cd 01-Activities
+  776  cd 01-Stu_Cats-And-Dogs
+  777  cd Solved
+  778  node rainingCatsAndDogs-noCon.js
+  779  npm i moment
+  780  npm install weather-js
+  781  cd
+  782  cd Desktop
+  783  git clone "https://github.com/charrismatic/node-readme-generator.git"
+  784  cd
+  785  cd Desktop
+  786  cd node-readme-generator
+  787  node index.js
+  788  cd 
+  789  cd Desktop
+  790  cd bootcamp-homeworks
+  791  cd readme-generator
+  792  node index.js
+  793  cd Develop
+  794  node index.js
+  795  npm install
+  796  node index.js
+  797  index.js
+  798  node index.js
+  799  index.js
+  800  node index.js
+  801  index.js
+  802  node index.js
+  803  index.js
+  804  node index.js
+  805  index.js
+  806  node index.js
+  807  npm install jest
+  808  npm init
+  809  cd bootcamp-homeworks
+  810  cd readme-generator
+  811  git add -A
+  812  git commit -m "added questions"
+  813  git push
+  814  cd
+  815  cd Desktop
+  816  git clone "https://github.com/kheller18/readme-generator.git"
+  817  node index.js
+  818  npm install
+  819  ls
+  820  cd Develop
+  821  ls
+  822  node index.js
+  823  npm install
+  824  node index.js
+  825  sd
+  826  s
+  827  npm init
+  828  cd
+  829  cd Desktop
+  830  cd bootcamp-homeworks
+  831  cd readme-generator
+  832  npm init
+  833  node index.js
+  834  ./
+  835  ../
+  836  cd readme-generator
+  837  cd Develop
+  838  node index.js
+  839  ../
+  840  git add -A
+  841  git commit -m "added table of contents"
+  842  git push
+  843  git pull
+  844  cd Develop
+  845  node index.js
+  846  ../
+  847  npmPackage install
+  848  npm npmPackage
+  849  cd Develop
+  850  index.js
+  851  node index.js
+  852  ../
+  853  git add -A
+  854  git commit -m "added badge icon for license type"
+  855  git push
+  856  cd Develop
+  857  node index.js
+  858  cd uw-blv-fsf-pt-06-2020-u-c
+  859  git pull
+  860  node index.js
+  861  index.js
+  862  node index.js
+  863  ../
+  864  git add -A
+  865  git commit -m "updated questions and readme format"
+  866  git push
+  867  cd Develop
+  868  node index.js
+  869  npm install
+  870  node index.js
+  871  ../
+  872  git add -A
+  873  git commit -m "added more licenses and updated readme output"
+  874  git push
+  875  cd Develop
+  876  node index.js
+  877  ../
+  878  git add -A
+  879  git commit -m "added screenshot"
+  880  git push
+  881  node index.js
+  882  cd Develop
+  883  node index.js
+  884  ls
+  885  cd 01-Activities
+  886  cd 02-Two-Servers
+  887  node index.js
+  888  cd Solved
+  889  node server.js
+  890  npm install
+  891  node server.js
+  892  cd
+  893  cd desktop
+  894  cd bootcamp-homeworks
+  895  cd readme-generator
+  896  cd Develop
+  897  node index.js
+  898  cd
+  899  cd deskt
+  900  cd Desktop
+  901  cd bootcamp-homeworks
+  902  cd readme-generator
+  903  cd Develop
+  904  node index.js
+  905  ../
+  906  cd Develop
+  907  node index.js
+  908  ../
+  909  git add -A
+  910  git commit -m "added more styling"
+  911  git push
+  912  cd des
+  913  cd Develop
+  914  node index.js
+  915  ../
+  916  git add -A
+  917  git commit -m "solved screenshot issue"
+  918  git push
+  919  cd Develop
+  920  node index.js
+  921  ../
+  922  git add -A
+  923  git commit -m "updated format of readme"
+  924  git push
+  925  cd Develop
+  926  node index.js
+  927  j
+  928  node index.js
+  929  ../
+  930  git add -A
+  931  git commit -m "more formatting changes"
+  932  git push
+  933  cd Develop
+  934  node index.js
+  935  ../
+  936  git add -A
+  937  git commit -m "more formatting changes"
+  938  git push
+  939  cd Develop
+  940  node index.js
+  941  ../
+  942  git add -A
+  943  git commit -m "updated styling and format"
+  944  git push
+  945  node index.js
+  946  git add -A
+  947  git commit -m "changed folder structure"
+  948  git push
+  949  ../
+  950  cd readme-generator
+  951  npm install
+  952  node index.js
+  953  npm install inquirer
+  954  node index.js
+  955  npm install
+  956  node index.js
+  957  npm install
+  958  node index.js
+  959  git addd -A
+  960  git add -A
+  961  git commit -m "first functional commit"
+  962  git push
+  963  cd
+  964  cd Desktop
+  965  cd bootcamp-homeworks
+  966  git clone https://github.com/kheller18/org-chart-generator.git
+  967  cd org-chart-generator
+  968  git add -A
+  969  git commit -m "initial commit"
+  970  git push
+  971  node app.js
+  972  npm install inquierer
+  973  npm install inquirer
+  974  node app.js
+  975  git add -A
+  976  git commit -m "added base questions for user input, output functions not yet written"
+  977  git push
+  978  node app.js
+  979  git add -A
+  980  git commit -m "app renders questions based on type of employee"
+  981  git push
+  982  node app.js
+  983  ls
+  984  cd 01-Activities
+  985  cd 13-StarWars-6
+  986  npm install
+  987  node server6.js
+  988  node app.js
+  989  node index.js
+  990  node app.js
+  991  git add -A
+  992  git commit -m "app functional and displays team on team.html file, located in the output folder"
+  993  git push
+  994  node app.js
+  995  node app.sj
+  996  node app.js
+  997  npm install
+  998  n
+  999  node app.js
+ 1000  node index.js
+ 1001  git add -A
+ 1002  git status
+ 1003  git commit -m "updated readme file"
+ 1004  git push
+ 1005  git pull
+ 1006  ../
+ 1007  git clone https://github.com/kheller18/note-taker.git
+ 1008  npm install express
+ 1009  npm install
+ 1010  git add -A
+ 1011  git commit -m "initial commit.. no functionally yet"
+ 1012  git push
+ 1013  cd Desktop
+ 1014  cd uw-blv-fsf-pt-06-2020-u-c
+ 1015  git pull
+ 1016  node server.js
+ 1017  kill
+ 1018  kill 8082
+ 1019  kill -9 8080
+ 1020  lsof -i
+ 1021  lsof -i: 8080
+ 1022  lsof -i 8080
+ 1023  kill -9 8080
+ 1024  Isof -i
+ 1025  lsof -i
+ 1026  lsof -i : 8080
+ 1027  sudo lsof -i :8080
+ 1028  kill -9 93059
+ 1029  node server.js
+ 1030  kill -9 93059
+ 1031  lsof -1: 8080
+ 1032  lsof -i :8080
+ 1033  kill -9 46807
+ 1034  node server.js
+ 1035  lsof -i :8080
+ 1036  kill -9 47030
+ 1037  node server.js
+ 1038  lsof -i :8080
+ 1039  kill -9 47167
+ 1040  exit
+ 1041  node server.js
+ 1042  lsof -i :8080
+ 1043  kill -9 47407
+ 1044  node server.js
+ 1045  git pull
+ 1046  lsof -i :8080
+ 1047  kill -9 47533
+ 1048  node server.js
+ 1049  lsof -i :8080
+ 1050  kill -9 54767
+ 1051  node server.js
+ 1052  lsof -i :8080
+ 1053  kill -9 54940
+ 1054  node server.js
+ 1055  lsof -i :8080
+ 1056  kill -9 55099
+ 1057  node index.js
+ 1058  git add -A
+ 1059  git commit -m "app fully functional and ready for consumer use"
+ 1060  git push
+ 1061  heroku login
+ 1062  cd Desktop
+ 1063  heroku login
+ 1064  npm install heroku
+ 1065  git add -A
+ 1066  git commit -m "updated packages"
+ 1067  git push
+ 1068  heroku login
+ 1069  git init
+ 1070  ../
+ 1071  brew tap heroku/brew && brew install heroku
+ 1072  brew tap heroku/brew
+ 1073  npm install -g heroku
+ 1074  heroku login
+ 1075  curl https://cli-assets.heroku.com/install.sh | sh
+ 1076  heroku login
+ 1077  git remote -v
+ 1078  cd Desktop
+ 1079  cd bootcamp-homeworks
+ 1080  cd note-taker
+ 1081  git remote -v
+ 1082  heroku create
+ 1083  git remote -v
+ 1084  git add -A
+ 1085  git commit -m "updated port"
+ 1086  git push
+ 1087  git push heroku master
+ 1088  git remote -v
+ 1089  git push heroku master
+ 1090  git pull heroku master
+ 1091  git pull
+ 1092  cd desk
+ 1093  cd Desktop
+ 1094  cd uw-blv-fsf-pt-06-2020-u-c
+ 1095  git pull
+ 1096  ../
+ 1097  cd bootcamp-homeworks
+ 1098  git clone https://github.com/kheller18/employee-tracker.git
+ 1099  git init
+ 1100  node init
+ 1101  init
+ 1102  git init
+ 1103  npm install
+ 1104  git init
+ 1105  node index.js
+ 1106  git init
+ 1107  git add -A
+ 1108  git commit -m "uploading initial files"
+ 1109  git push
+ 1110  git init
+ 1111  npm install inquirer
+ 1112  npm install console.table
+ 1113  npm install mysql
+ 1114  git init
+ 1115  npm init
+ 1116  node index.js
+ 1117  ../
+ 1118  cd uw-blv-fsf-pt-06-2020-u-c
+ 1119  git pull
+ 1120  npm i
+ 1121  node index.js
+ 1122  npm install mysql
+ 1123  node index.js
+ 1124  npm install
+ 1125  node index.js
+ 1126  npm install path
+ 1127  node index.js
+ 1128  npm install mysql
+ 1129  node index.js
+ 1130  npm install -g sequelize sequelize-cli
+ 1131  cd 01-Activities
+ 1132  cd 07-ORM-To-Sequelize
+ 1133  cd Unsolved
+ 1134  ../
+ 1135  npm install
+ 1136  sequelize init:models
+ 1137  npm install -g
+ 1138  npm install -g sequelize sequelize-cli
+ 1139  npm i sequelize
+ 1140  cd 07-ORM-To-Sequelize
+ 1141  cd Unsolved
+ 1142  npm i
+ 1143  sudo npm i -g sequelize sequelize-cli
+ 1144  git add -A
+ 1145  git commit -m "added database connection and some SQL queries"
+ 1146  git push
+ 1147  node server.js
+ 1148  lsof -i:3306
+ 1149  kill -9 14259
+ 1150  node server.js
+ 1151  lsof -i:3306
+ 1152  lsof -i: 3306
+ 1153  lsof -i :3306
+ 1154  node server.js
+ 1155  .exit
+ 1156  node server.js
+ 1157  node server.j
+ 1158  node server.js
+ 1159  git add -A
+ 1160  git commit -m "added sql queries and server handling"
+ 1161  git push
+ 1162  node server.js
+ 1163  npm install fs
+ 1164  node server.js
+ 1165  node app.js
+ 1166  node index.js
+ 1167  git add -A
+ 1168  git commit -m "created welcome greeting and updated readme"
+ 1169  git push
+ 1170  git add -A
+ 1171  git commit -m "cleaned up files"
+ 1172  git push
+ 1173  npm install
+ 1174  node server.js
+ 1175  cd Desktop
+ 1176  cd bootcamp-homeworks
+ 1177  git clone https://github.com/kheller18/burger-joint.git
+ 1178  npm init
+ 1179  npm install express
+ 1180  npm install express-handlebars
+ 1181  npm install mysql
+ 1182  cd db
+ 1183  mysql -u root -p
+ 1184  npm install mysql
+ 1185  mysql -u root -p
+ 1186  ../
+ 1187  npm i
+ 1188  cd db/
+ 1189  mysql -u root -p
+ 1190  mysql
+ 1191  mysql -u root -p 6198HawkS6198!
+ 1192  mysql --version
+ 1193  mysql
+ 1194  sudo mysql
+ 1195  export PATH=${PATH}:/usr/local/mysql/bin
+ 1196  mysql
+ 1197  sudo mysql -u root -p
+ 1198  mysql -u root -p
+ 1199  ../
+ 1200  node server.js
+ 1201  npm i
+ 1202  node server.js
+ 1203  sudo npm i -g eslint
+ 1204  git add -A
+ 1205  git commit -m "initial commit. uploading files"
+ 1206  node server.js
+ 1207  npm i
+ 1208  node server.js
+ 1209  npm i
+ 1210  node server.js
+ 1211  lsof -i :3000
+ 1212  kill -9 42105
+ 1213  node kill
+ 1214  node kill all
+ 1215  kill all
+ 1216  lsof -i :3000
+ 1217  node server.js
+ 1218  lsof -i :3000
+ 1219  kill -9 42902
+ 1220  node server.js
+ 1221  cd Desktop
+ 1222  cd uw-blv-fsf-pt-06-2020-u-c
+ 1223  git pull
+ 1224  cd Desktop
+ 1225  cd bootcamp-homeworks
+ 1226  git clone https://github.com/Zarlengo/Project_1.git
+ 1227  node api.js
+ 1228  npm install node-fetch
+ 1229  node api.js
+ 1230  npm install request
+ 1231  node api.js
+ 1232  node server.js
+ 1233  lsof -i :3000
+ 1234  kill -9 7311
+ 1235  kill -9 492
+ 1236  lsof -i :3000
+ 1237  node server.js
+ 1238  kill -9 7311
+ 1239  lsof -i :3000
+ 1240  kill -9 9043
+ 1241  kill -9 8790
+ 1242  node server.js
+ 1243  lsof - i:3000
+ 1244  lsof -i :3000
+ 1245  node server.js
+ 1246  lsof -i :3000
+ 1247  kill -9 9375
+ 1248  kill -9 9198
+ 1249  lsof -i :3000
+ 1250  node server.js
+ 1251  lsof -i :3000
+ 1252  kill -9 9712
+ 1253  kill -9 9475
+ 1254  node server.js
+ 1255  lsof - i:3000
+ 1256  lsof -i :3000
+ 1257  kill -9 9887
+ 1258  node server.js
+ 1259  lsof -i :3000
+ 1260  kill -9 9965
+ 1261  node server.js
+ 1262  lsof - i:3000
+ 1263  lsof -i :3000
+ 1264  kill -9 10046
+ 1265  git add -A
+ 1266  git commit -m "added routes and got burgers to display"
+ 1267  git push
+ 1268  node server.js
+ 1269  lsof -i :3000
+ 1270  kill -9 10408
+ 1271  kill -9 9883
+ 1272  node server.js
+ 1273  cd 01-Activities
+ 1274  cd 17-CatsApp
+ 1275  cd Solved
+ 1276  npm i
+ 1277  node server.js
+ 1278  cd 01-Activities
+ 1279  cd 17-CatsApp
+ 1280  cd Solved
+ 1281  node server.js
+ 1282  lsof -i :3000
+ 1283  kill -9 11044
+ 1284  git add -A
+ 1285  git commit -m "added devour button and styling upgrades. Working on update function."
+ 1286  git push
+ 1287  node server.js
+ 1288  cd Desktop
+ 1289  lsof -i :3000
+ 1290  kill -9 14015
+ 1291  git add -A
+ 1292  git commit -m "devour button working and burgers devoured fill correctly to the right side of the screen. App functional"
+ 1293  git push
+ 1294  node server.js
+ 1295  lsof -i :30000
+ 1296  lsof -i :3000
+ 1297  kill -9 15376
+ 1298  node server.js
+ 1299  lsof -i :3000
+ 1300  kill -9 16415
+ 1301  git add -A
+ 1302  git commit -m "cleaned up files and added comments"
+ 1303  git push
+ 1304  node index.js
+ 1305  git add -A
+ 1306  git commit -m "updated readme"
+ 1307  git push
+ 1308  heroku create
+ 1309  git add -A
+ 1310  git commit -m "added heroku jawsdb connection route"
+ 1311  git push
+ 1312  git push heroku master
+ 1313  heroku open
+ 1314  git add -A
+ 1315  git commit -m "updated heroku info"
+ 1316  git add -A
+ 1317  git commit -m "added burger joint project to projects tab"
+ 1318  git push
+ 1319  cd bootcamp-homeworks
+ 1320  git clone https://github.com/Zarlengo/VerdantEarth.git
+ 1321  git checkout -b newsApi
+ 1322  node api.js
+ 1323  npm install newsapi
+ 1324  node api.js
+ 1325  cd
+ 1326  git pull
+ 1327  npm install
+ 1328  node server.js
+ 1329  node api.js
+ 1330  npm install sequelize
+ 1331  npm install mysql
+ 1332  node server.js
+ 1333  npm install express-session
+ 1334  npm i
+ 1335  node server.js
+ 1336  lsof -i :8080
+ 1337  node server.js
+ 1338  npm i express-handlebars
+ 1339  node server.js
+ 1340  npm i request
+ 1341  npm install dotenv
+ 1342  npm i newsapi
+ 1343  cd routes
+ 1344  node articles-api-routes.js
+ 1345  ../
+ 1346  node server.js
+ 1347  lsof -i :8080
+ 1348  kill -9 30995
+ 1349  kill -9 10878
+ 1350  node server.js
+ 1351  lsof -i :8080
+ 1352  kill -9 31723
+ 1353  terminate
+ 1354  aligator
+ 1355  close
+ 1356  kill
+ 1357  kill node
+ 1358  .exit
+ 1359  node .exit
+ 1360  node exit
+ 1361  exit
+ 1362  kill -9 31144
+ 1363  node server.js
+ 1364  lsof -i :8080
+ 1365  kill -9 31917
+ 1366  node server.js
+ 1367  lsof -i :8080
+ 1368  kill -9 31968
+ 1369  kill -9 31913
+ 1370  node server.js
+ 1371  lsof -i :8080
+ 1372  kill -9 32054
+ 1373  npm install newsapi
+ 1374  node server.js
+ 1375  lsof -i :8080
+ 1376  kill -9 32050
+ 1377  kill -9 32134
+ 1378  node server.js
+ 1379  lsof -i :8080
+ 1380  kill -9 33595
+ 1381  node server.js
+ 1382  lsof -i :8080
+ 1383  node server.js
+ 1384  lsof -i :8080
+ 1385  kill -9 33683
+ 1386  node server.js
+ 1387  lsof -i :8080
+ 1388  kill -9 33767
+ 1389  node server.js
+ 1390  lsof -i :8080
+ 1391  kill -9 33837
+ 1392  node server.js
+ 1393  lsof -i :8080
+ 1394  kill -9 34194
+ 1395  node server.js
+ 1396  lsof -i :8080
+ 1397  kill -9 34317
+ 1398  node server.js
+ 1399  lsof -i :8080
+ 1400  kill -9 34367
+ 1401  node server.js
+ 1402  lsof -i :8080
+ 1403  kill -9 34434
+ 1404  node server.js
+ 1405  lsof -i :8080
+ 1406  kill -9 34676
+ 1407  kill -9 32180
+ 1408  node server.js
+ 1409  lsof -i :8080
+ 1410  kill -9 34741
+ 1411  kill -9 34745
+ 1412  node server.js
+ 1413  lsof -i :8080
+ 1414  kill -9 34812
+ 1415  node server.js
+ 1416  lsof -i :8080
+ 1417  kill -9 35168
+ 1418  node server.js
+ 1419  cd 01-Activities
+ 1420  cd 14-Post-Author-Joins
+ 1421  cd Solved
+ 1422  cd server.js
+ 1423  node server.js
+ 1424  npm i
+ 1425  node server.js
+ 1426  lsof -i :8080
+ 1427  kill -9 34781
+ 1428  kill -9 35256
+ 1429  node server.js
+ 1430  lsof -i :8080
+ 1431  kill -9 35570
+ 1432  kill -9 35601
+ 1433  node server.js
+ 1434  lsof -i :8080
+ 1435  kill -9 35676
+ 1436  node server.js
+ 1437  lsof -i :8080
+ 1438  kill -9 35645
+ 1439  kill -9 36000
+ 1440  node server.js
+ 1441  lsof -i :8080
+ 1442  kill -9 36110
+ 1443  kill -9 36064
+ 1444  node server.js
+ 1445  lsof -i :8080
+ 1446  kill -9 36379
+ 1447  node server.js
+ 1448  lsof -i :8080
+ 1449  kill -9 36451
+ 1450  node server.js
+ 1451  lsof -i :8080
+ 1452  kill -9 36375
+ 1453  kill -9 36746
+ 1454  node server.js
+ 1455  lsof -i :8080
+ 1456  kill -9 36854
+ 1457  node server.js
+ 1458  lsof -i :8080
+ 1459  kill -9 36955
+ 1460  node server.js
+ 1461  lsof -i :8080
+ 1462  kill -9 36823
+ 1463  kill -9 37057
+ 1464  node server.js
+ 1465  lsof -i :8080
+ 1466  kill -9 37108
+ 1467  kill -9 37140
+ 1468  node server.js
+ 1469  lsof -i :8080
+ 1470  kill -9 37207
+ 1471  node server.js
+ 1472  lsof -i :8080
+ 1473  kill -9 37176
+ 1474  kill -9 37311
+ 1475  node server.js
+ 1476  lsof -i :8080
+ 1477  node server.js
+ 1478  lsof -i :8080
+ 1479  kill -9 38084
+ 1480  kill -9 38196
+ 1481  node server.js
+ 1482  lsof -i :8080
+ 1483  kill -9 38338
+ 1484  node server.js
+ 1485  lsof -i :8080
+ 1486  kill -9 38307
+ 1487  kill -9 38485
+ 1488  node server.js
+ 1489  lsof -i :8080
+ 1490  kill -9 38546
+ 1491  kill -9 38526
+ 1492  kill -9 38557
+ 1493  node server.js
+ 1494  lsof -i :8080
+ 1495  kill -9 38641
+ 1496  kill -9 38609
+ 1497  node server.js
+ 1498  lsof -i :8080
+ 1499  kill -9 38782
+ 1500  node server.js
+ 1501  lsof -i :8080
+ 1502  kill -9 38854
+ 1503  node server.js
+ 1504  lsof -i :8080
+ 1505  kill -9 39006
+ 1506  node server.js
+ 1507  lsof -i :8080
+ 1508  kill -9 38778
+ 1509  kill -9 39060
+ 1510  node server.js
+ 1511  lsof -i :8080
+ 1512  kill -9 39209
+ 1513  node server.js
+ 1514  lsof -i :8080
+ 1515  kill -9 39373
+ 1516  node server.js
+ 1517  lsof -i :8080]
+ 1518  lsof -i :8080
+ 1519  kill -9 39464
+ 1520  node server.js
+ 1521  lsof -i :8080
+ 1522  kill -9 39659
+ 1523  node server.js
+ 1524  lsof -i :8080
+ 1525  kill -9 39177
+ 1526  kill -9 39744
+ 1527  node server.js
+ 1528  lsof -i :8080
+ 1529  kill -9 39815
+ 1530  kill -9 39846
+ 1531  node server.js
+ 1532  lsof -i :8080
+ 1533  kill -9 39959
+ 1534  kill -9 39992
+ 1535  node server.js
+ 1536  lsof -i :8080
+ 1537  kill -9 40336
+ 1538  kill -9 40370
+ 1539  node server.js
+ 1540  lsof -i :8080
+ 1541  kill -9 40535
+ 1542  kill -9 40567
+ 1543  node server.js
+ 1544  git switch branch master
+ 1545  git checkout master
+ 1546  git pull
+ 1547  git branches
+ 1548  git checkout newsApi
+ 1549  git merge master
+ 1550  git checkout master
+ 1551  git pull
+ 1552  git checkout newsApi
+ 1553  git merge master
+ 1554  git add -A
+ 1555  git status
+ 1556  git checkout master
+ 1557  git pull
+ 1558  git checkout newsApi
+ 1559  git add -A
+ 1560  git commit -m "initial commit articles"
+ 1561  git checkout master
+ 1562  git pull
+ 1563  git checkout newsApi
+ 1564  git merge master
+ 1565  git add -A
+ 1566  git status
+ 1567  git commit -m "article routes and info"
+ 1568  git push
+ 1569  git push origin newsApi
+ 1570  git add -A
+ 1571  git commit -m "updated article syntax"
+ 1572  git push origin
+ 1573  git push origin master
+ 1574  git push origin newsApi
+ 1575  git checkout master
+ 1576  git add -A
+ 1577  git commit -m "fixed config"
+ 1578  git push origin newsApi
+ 1579  git checkout master
+ 1580  git pull
+ 1581  git checkout newsApi
+ 1582  git merge master
+ 1583  git add -A
+ 1584  git status
+ 1585  git commit -m "updated config"
+ 1586  git push
+ 1587  git push origin newsApi
+ 1588  git add -A
+ 1589  git commit -m "fixed more config issues"
+ 1590  git push
+ 1591  git push origin newsApi
+ 1592  git add -A
+ 1593  git commit -m "fixed more conflicts"
+ 1594  git push origin newsApi
+ 1595  npm install
+ 1596  node server.js
+ 1597  npm install newsapi
+ 1598  npm i
+ 1599  node server.js
+ 1600  lsof -i :8080
+ 1601  kill -9 40676
+ 1602  node server.js
+ 1603  lsof -i :8080
+ 1604  kill -9 43021
+ 1605  node server.js
+ 1606  git add -A
+ 1607  git commit -m "added npm module"
+ 1608  git push
+ 1609  git push origin newsApi
+ 1610  git pull
+ 1611  git add -A
+ 1612  git commit -m "added npm packages"
+ 1613  npm install
+ 1614  node server.js
+ 1615  lsof -i :8080
+ 1616  kill -9 43087
+ 1617  node server.js
+ 1618  git add -A
+ 1619  git commit -m "fixed css naviagtion issue"
+ 1620  git push
+ 1621  git push origin newsApi
+ 1622  git pull
+ 1623  node server.js
+ 1624  lsof -i :8080
+ 1625  kill -9 44016
+ 1626  node server.js
+ 1627  lsof -i :8080
+ 1628  kill -9 44218
+ 1629  kill -9 40645
+ 1630  node server.js
+ 1631  lsof -i :8080
+ 1632  kill -9 44297
+ 1633  kill -9 44301
+ 1634  node server.js
+ 1635  lsof -i :8080
+ 1636  kill -9 44430
+ 1637  kill -9 44463
+ 1638  npm i
+ 1639  node server.js
+ 1640  lsof -i :8080
+ 1641  kill -9 44543
+ 1642  node server.js
+ 1643  lsof -i :8080
+ 1644  kill -9 44496
+ 1645  kill -9 44665
+ 1646  node server.js
+ 1647  lsof -i :8080
+ 1648  kill -9 44702
+ 1649  kill -9 44734
+ 1650  git add -A
+ 1651  git commit -m "articles display.  Need to verify links and add styling for carousel."
+ 1652  git push origin newsApi
+ 1653  git pull
+ 1654  git add -A
+ 1655  git commit -m "articles display. need to update styling and output"
+ 1656  node server.js
+ 1657  lsof -i :8080
+ 1658  kill -9 44972
+ 1659  git pull
+ 1660  git checkout master
+ 1661  git commit -m "adding more article changes. Still working on carousel"
+ 1662  git add -A
+ 1663  git commit -m "adding more article changes, still working on carousel"
+ 1664  git push origin newsApi
+ 1665  git pull
+ 1666  git-pull(1)
+ 1667  git merge master
+ 1668  git pull master
+ 1669  git pull
+ 1670  git pull master
+ 1671  git pull newsApi
+ 1672  git pull
+ 1673  git checkout master
+ 1674  git pull
+ 1675  git checkout newsApi
+ 1676  git merge master
+ 1677  git add -A
+ 1678  git commit -m "merged with master. still working on carousel"
+ 1679  git push
+ 1680  git push origin newsApi
+ 1681  git pull
+ 1682  git checkout master
+ 1683  git pull
+ 1684  git checkout newsApi
+ 1685  git merge master
+ 1686  git push origin 
+ 1687  git push --set-upstream origin newsApi
+ 1688  git pull
+ 1689  git pull newsApi
+ 1690  git pull master
+ 1691  git pull
+ 1692  git merge
+ 1693  git merge master
+ 1694  git add -A
+ 1695  git status
+ 1696  npm i
+ 1697  node server.js
+ 1698  lsof -i :8080
+ 1699  kill -9 47009
+ 1700  node server.js
+ 1701  git add -A
+ 1702  git commit -m "carousel working. updating styling"
+ 1703  git push origin newsApi
+ 1704  git push newsApi
+ 1705  git push origin
+ 1706  git push --set-upstream origin newsApi
+ 1707  git pull
+ 1708  git checkout master
+ 1709  git pull
+ 1710  git checkout newsApi
+ 1711  git merge master
+ 1712  node server.js
+ 1713  lsof -i :8080
+ 1714  kill -9 44769
+ 1715  kill -9 44208
+ 1716  kill -9 47208
+ 1717  node server.js
+ 1718  lsof -i :8080
+ 1719  kill -9 47811
+ 1720  node server.js
+ 1721  lsof -i :8080
+ 1722  kill -9 47862
+ 1723  node server.js
+ 1724  lsof -i :8080
+ 1725  kill -9 47981
+ 1726  node server.js
+ 1727  lsof -i :8080
+ 1728  kill -9 48466
+ 1729  node server.js
+ 1730  lsof -i :8080
+ 1731  kill -9 48583
+ 1732  node server.js
+ 1733  lsof -i :8080
+ 1734  kill -9 47762
+ 1735  kill -9 48652
+ 1736  node server.js
+ 1737  lsof -i :8080
+ 1738  kill -9 48687
+ 1739  kill -9 48718
+ 1740  node server.js
+ 1741  lsof -i :8080
+ 1742  kill -9 48771
+ 1743  kill -9 48802
+ 1744  node server.js
+ 1745  lsof -i :8080
+ 1746  kill -9 48839
+ 1747  kill -9 48870
+ 1748  node server.js
+ 1749  lsof -i :8080
+ 1750  kill -9 48907
+ 1751  kill -9 48938
+ 1752  node server.js
+ 1753  lsof -i :8080
+ 1754  kill -9 48980
+ 1755  kill -9 49011
+ 1756  node server.js
+ 1757  lsof -i :8080
+ 1758  kill -9 49085
+ 1759  node server.js
+ 1760  lsof -i :8080
+ 1761  node server.js
+ 1762  lsof -i :8080
+ 1763  kill -9 49189
+ 1764  node server.js
+ 1765  lsof -i :8080
+ 1766  kill -9 49277
+ 1767  git checkout master
+ 1768  git add -A
+ 1769  git commit -m "articles carousel works and displays on each page"
+ 1770  git push origin newsApi
+ 1771  git pull
+ 1772  git checkout master
+ 1773  git pull
+ 1774  git checkout newsApi
+ 1775  git merge master
+ 1776  git pull
+ 1777  git commit
+ 1778  git add -A
+ 1779  git commit -m "adding articles section"
+ 1780  git push origin newsApi
+ 1781  git merge master
+ 1782  git pull
+ 1783  git branch --set-upstream-to=origin/newsApi
+ 1784  git add -A
+ 1785  git status
+ 1786  git pull
+ 1787  git status
+ 1788  git add -A
+ 1789  git commit -m "finished articles carousel and rendered to page"
+ 1790  git push origin newsApi
+ 1791  node server.js
+ 1792  git add -A
+ 1793  git commit -m "fixed issue with local merge"
+ 1794  git add -A
+ 1795  git commit -m "fixed issue with local merge"
+ 1796  git push origin newsApi
+ 1797  git checkout master
+ 1798  git pull
+ 1799  git add -A
+ 1800  git commit -m "fixed travis issue"
+ 1801  git push origin newsApi
+ 1802  git checkout master
+ 1803  git pull
+ 1804  node server.js
+ 1805  git checkout newsApi
+ 1806  npm i
+ 1807  node server.js
+ 1808  lsof -i :8080
+ 1809  node server.js
+ 1810  lsof -i :8080
+ 1811  kill -9 49051
+ 1812  kill -9 50376
+ 1813  node server.js
+ 1814  lsof -i :8080
+ 1815  kill -9 50459
+ 1816  git add -A
+ 1817  git commit -m "fixed problem with displaying articles"
+ 1818  git push origin newsApi
+ 1819  git add -A
+ 1820  git commit -m "fixed problem displaying articles"
+ 1821  git push origin newsApi
+ 1822  node server.js
+ 1823  lsof -i :8080
+ 1824  node server.js
+ 1825  lsof -i :8080
+ 1826  kill -9 50754
+ 1827  git add -A
+ 1828  git commit -m "fixed articles on wind page"
+ 1829  git push origin newsApi
+ 1830  cd Desktop
+ 1831  cd uw-blv-fsf-pt-06-2020-u-c
+ 1832  git pull
+ 1833  ../
+ 1834  mongod
+ 1835  mongo
+ 1836  mongod
+ 1837  mongo
+ 1838  mongod
+ 1839  cd Desktop
+ 1840  mongod
+ 1841  brew tap mongodb/brew
+ 1842  brew install mongodb-community@4.4
+ 1843  grep mongod
+ 1844  cd des
+ 1845  cd Desktop
+ 1846  $ brew install wget
+ 1847  brew install wget
+ 1848  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+ 1849  brew tap mongodb/brew
+ 1850  brew install mongodb-community@4.4
+ 1851  mongod --dbpath ~/Desktop/data/db/
+ 1852  mongod
+ 1853  mongod --dbpath ~/Desktop/data/db/
+ 1854  mongod
+ 1855  mongod --dbpath ~/Desktop/data/db/
+ 1856  git checkout master
+ 1857  git pull
+ 1858  git add -A
+ 1859  git commit -m "added more projects, cleaned up code structure"
+ 1860  git push
+ 1861  cd Desktop
+ 1862  cd bootcamp-homeworks
+ 1863  git clone https://github.com/kheller18/workout-tracker.git
+ 1864  git pull
+ 1865  git add -A
+ 1866  git commit -m "uploading initial files"
+ 1867  git push
+ 1868  git add -A
+ 1869  git commit -m "added more initial files"
+ 1870  git push
+ 1871  ../
+ 1872  ls
+ 1873  cd uw-blv-fsf-pt-06-2020-u-c
+ 1874  git pull
+ 1875  git add -A
+ 1876  git commit -m "changed file structure"
+ 1877  git push
+ 1878  npm i
+ 1879  git add -A
+ 1880  git commit -m "added more blank skeleton files"
+ 1881  git push
+ 1882  git add -A
+ 1883  git commit -m "hiding .env"
+ 1884  git push
+ 1885  git add -A
+ 1886  git commit -m "hiding more files"
+ 1887  git push
+ 1888  npm i express
+ 1889  npm i mongoose
+ 1890  node server.js
+ 1891  npm i express-session
+ 1892  node server.js
+ 1893  cd Desktop
+ 1894  cd uw-blv-fsf-pt-06-2020-u-c
+ 1895  git pull
+ 1896  lsof -i :3000
+ 1897  cd public
+ 1898  cd seeders
+ 1899  node seed.js
+ 1900  ../
+ 1901  cd
+ 1902  cd Desktop
+ 1903  cd bootcamp-homeworks
+ 1904  cd workout-tracker
+ 1905  cd seeders
+ 1906  npm i
+ 1907  node seed.js
+ 1908  ../
+ 1909  node server.js
+ 1910  lsof -i :3000
+ 1911  node server.js
+ 1912  npm i
+ 1913  node server.js
+ 1914  npm i -g create-react-app
+ 1915  sudo npm i -g create-react-app
+ 1916  npx create-react-app class-19-1
+ 1917  node server.js
+ 1918  npm i
+ 1919  node server.js
+ 1920  npm i
+ 1921  ls
+ 1922  cd 01-Activities
+ 1923  cd 26-Stu-Mini-Project
+ 1924  cd Solved
+ 1925  npm i
+ 1926  node server.js
+ 1927  npm i express
+ 1928  npm i express-session
+ 1929  npm i mongoose
+ 1930  npm i morgan
+ 1931  node server.js
+ 1932  ../
+ 1933  cd Unsolved
+ 1934  npm i
+ 1935  node server.js
+ 1936  cd 02-Homework
+ 1937  cd Develop
+ 1938  npm i
+ 1939  node server.js
+ 1940  apachectl -M
+ 1941  sudo a2enmod mime
+ 1942  node server.js
+ 1943  git add -A
+ 1944  git commit -m "app renders different pages. Api still not enabled to successfully enter workout data"
+ 1945  git push
+ 1946  git add -A
+ 1947  git commit -m "updated server file"
+ 1948  git push
+ 1949  node server.js
+ 1950  git add -A
+ 1951  git commit -m "changed file structure.  Added html and api routes"
+ 1952  git push
+ 1953  npm install
+ 1954  node server.js
+ 1955  npm i
+ 1956  node server.js
+ 1957  lsof -i :3000
+ 1958  node server.js
+ 1959  npm install
+ 1960  node server.js
+ 1961  git add -A
+ 1962  git commit -m "app working. Fixed bug in api file"
+ 1963  git push
+ 1964  git add -A
+ 1965  git commit -m "deleted unused folder"
+ 1966  git push
+ 1967  git add -A
+ 1968  git commit -m "deleted unused css file"
+ 1969  git push
+ 1970  git add -A
+ 1971  git commit -m "added comments to files"
+ 1972  git push
+ 1973  git add -A
+ 1974  git commit -m "added more comments"
+ 1975  git push
+ 1976  git add -A
+ 1977  git commit -m "Fixed files for eslint"
+ 1978  git push
+ 1979  node server.js
+ 1980  cd
+ 1981  cd Desktop
+ 1982  cd bootcamp-homeworks
+ 1983  cd readme-generator
+ 1984  node server.js
+ 1985  node index.js
+ 1986  git add -A
+ 1987  git commit -m "updated readme"
+ 1988  git push
+ 1989  ../
+ 1990  cd bootcamp-homeworks
+ 1991  cd workout-tracker
+ 1992  mongod --dbpath ~/Desktop/data/db/
+ 1993  ./
+ 1994  cd
+ 1995  cd Desktop
+ 1996  mongod --dbpath ~/Desktop/data/db/
+ 1997  mongod --dbpath /Desktop/data/db/
+ 1998  mongod
+ 1999  mongod --dbpath ~/Desktop/data/db
+ 2000  cd Desktop
+ 2001  cd uw-blv-fsf-pt-06-2020-u-c
+ 2002  git pull
+ 2003  node index.js
+ 2004  heroku create workout-tracker
+ 2005  heroku create workout-tracker-kman
+ 2006  git add -A
+ 2007  git commit -m "deploying"
+ 2008  git push heroku main
+ 2009  heroku open
+ 2010  git status
+ 2011  git add -A
+ 2012  git commit -m "updated for heroku"
+ 2013  git push
+ 2014  cd
+ 2015  cd Desktop
+ 2016  cd bootcamp-homeworks
+ 2017  git clone https://github.com/kheller18/budget-tracker.git
+ 2018  cd budget-tracker
+ 2019  git add -A
+ 2020  git commit -m "uploading provided files"
+ 2021  git push
+ 2022  npm install
+ 2023  git add -A
+ 2024  git commit -m "added database file & installed packages"
+ 2025  git push
+ 2026  git add -A
+ 2027  git commit -m "added files to gitignore"
+ 2028  git push
+ 2029  node server.js
+ 2030  git add -A
+ 2031  git commit -m "added service worker script to index.html page"
+ 2032  git push
+ 2033  git add -A
+ 2034  git commit -m "added files to gitignore"
+ 2035  git push
+ 2036  git add -A
+ 2037  git commit -m "created service worker file.  Not fully functional"
+ 2038  git push
+ 2039  git status
+ 2040  git add -A
+ 2041  git commit -m "updated service worker file"
+ 2042  git push
+ 2043  git add -A
+ 2044  git commit -m "updated service worker file"
+ 2045  git push
+ 2046  npm i
+ 2047  node server.js
+ 2048  git add -A
+ 2049  git commit -m "App now functional and working in offline mode.  Adding comments to files"
+ 2050  git push
+ 2051  git add -A
+ 2052  git commit -m "added manifest file"
+ 2053  git push
+ 2054  node server.js
+ 2055  git add -A
+ 2056  git commit -m "updated package.json information"
+ 2057  git push
+ 2058  node server.js
+ 2059  ../
+ 2060  cd readme-generator
+ 2061  node index.js
+ 2062  ../
+ 2063  cd budget-tracker
+ 2064  git add -A
+ 2065  git commit -m "updated readme"
+ 2066  git push
+ 2067  heroku create budget-tracker-kman
+ 2068  git add -A
+ 2069  git commit -m "deploying to heroku"
+ 2070  git push heroku main
+ 2071  heroku open
+ 2072  ../
+ 2073  cd bootcamp-homeworks
+ 2074  git clone https://github.com/kheller18/sportsbook.git
+ 2075  cd sportsbook
+ 2076  npx create react app
+ 2077  npx create-react-app
+ 2078  npm create-react-app sportsbook
+ 2079  npx create-react-app sportsbook
+ 2080  ../
+ 2081  cd sportsbook
+ 2082  git add -A
+ 2083  git commit -m "uploading initial files"
+ 2084  git push
+ 2085  npm install
+ 2086  npm start
+ 2087  npm install 
+ 2088  npm start
+ 2089  git add -A
+ 2090  git commit -m "uploading initial files"
+ 2091  git push
+ 2092  git add -A
+ 2093  git commit -m "added eslint, travis"
+ 2094  git push
+ 2095  git add -A
+ 2096  git commit -m "updated travis"
+ 2097  git push
+ 2098  npm install
+ 2099  npm install express
+ 2100  npm start
+ 2101  cd client
+ 2102  npm run start
+ 2103  npm install
+ 2104  npm start
+ 2105  ../
+ 2106  npm install axios
+ 2107  npm install bcrypt
+ 2108  npm install
+ 2109  npm start
+ 2110  cd client
+ 2111  npm install
+ 2112  npm start
+ 2113  npm install web-vitals
+ 2114  npm start
+ 2115  ../
+ 2116  npm start
+ 2117  cd client
+ 2118  npm start
+ 2119  npm install axios
+ 2120  ../
+ 2121  git add -A
+ 2122  git commit -m "updated package information. Added API"
+ 2123  git push
+ 2124  cd client
+ 2125  npm start
+ 2126  npm install dotenv
+ 2127  npm start
+ 2128  ../
+ 2129  npm start
+ 2130  npm install
+ 2131  npm start
+ 2132  cd client
+ 2133  npm start
+ 2134  npm run build
+ 2135  npm run start
+ 2136  ../
+ 2137  npm install --sav-dev webpack webpack -cli
+ 2138  npm run start
+ 2139  cd client
+ 2140  npm start
+ 2141  ../
+ 2142  npm install
+ 2143  npm run start
+ 2144  cd client
+ 2145  npm start
+ 2146  npm install
+ 2147  npm start
+ 2148  ../
+ 2149  npm start
+ 2150  git add -A
+ 2151  git commit -m "updated API"
+ 2152  git push
+ 2153  npm run start
+ 2154  git add -A
+ 2155  git commit -m "updated components to display upcoming nfl games"
+ 2156  git push
+ 2157  npm run start
+ 2158  git add -A
+ 2159  git commit -m "added component to display upcoming NFL games and respective moneyline odds"
+ 2160  git push
+ 2161  npm run start
+ 2162  git add -A
+ 2163  git commit -m "Added moneyline buttons"
+ 2164  git push
+ 2165  npm run start
+ 2166  git add -A
+ 2167  git commit -m "updated styling to make games more visible"
+ 2168  git status
+ 2169  git add -A
+ 2170  git commit -m "cleaned up styling to more easily view games"
+ 2171  git push
+ 2172  git add -A
+ 2173  git commit -m "cleaned up API file"
+ 2174  git push
+ 2175  npm run start
+ 2176  npm install moment
+ 2177  npm install moment-timezone
+ 2178  npm run start
+ 2179  git add -A
+ 2180  git commit -m "app now renders moneyline, spread and over/under"
+ 2181  git push
+ 2182  npm run start
+ 2183  npm install mongoose
+ 2184  npm install bcryptjs
+ 2185  npm install passport
+ 2186  npm install passport-local
+ 2187  npm run start
+ 2188  git add -A
+ 2189  git commit -m "updated game UI, added bet slip component and renders choice selected by user"
+ 2190  git push
+ 2191  npm run start
+ 2192  npm run seed
+ 2193  npm install
+ 2194  cd client
+ 2195  npm install
+ 2196  ../
+ 2197  npm run seed
+ 2198  npm install axios
+ 2199  npm install bcrypt
+ 2200  npm run seed
+ 2201  cd seeders
+ 2202  npm run seed
+ 2203  ../
+ 2204  npm run seed
+ 2205  npm run manaulSeed.js
+ 2206  npm run manualSeed.js
+ 2207  npm run seed
+ 2208  node seeders
+ 2209  node seed
+ 2210  node seed.js
+ 2211  npm run seed
+ 2212  npm run migrate
+ 2213  npm run seed
+ 2214  db
+ 2215  npm run seed
+ 2216  npm run manualSeed
+ 2217  cd seeders
+ 2218  npm run seed
+ 2219  npm run manualSeed
+ 2220  npm run manualSeed.js
+ 2221  ../
+ 2222  npm run manualSeed.js
+ 2223  npm run seeders/manualSeed.js
+ 2224  npm run seed
+ 2225  cd seeders
+ 2226  node seed.js
+ 2227  npm run seed
+ 2228  node seed.js
+ 2229  ../
+ 2230  npm run start
+ 2231  cd seeders
+ 2232  node run seed.js
+ 2233  node seed.js
+ 2234  ../
+ 2235  npm run start
+ 2236  npm install cryptographic
+ 2237  npm run start
+ 2238  npm install
+ 2239  npm run start
+ 2240  cd client
+ 2241  npm install
+ 2242  ../
+ 2243  npm run start
+ 2244  npm install
+ 2245  cd client
+ 2246  npm install
+ 2247  ../
+ 2248  npm run start
+ 2249  lsof -i :3000
+ 2250  lsof -i :3001
+ 2251  npm run start
+ 2252  npm install mongoose
+ 2253  npm run start
+ 2254  npm install
+ 2255  npm run start
+ 2256  npm install
+ 2257  npm run start
+ 2258  npm install
+ 2259  npm i 
+ 2260  ../
+ 2261  git clone https://github.com/kheller18/user-directory.git
+ 2262  cd user-directory
+ 2263  lsof -i :3000
+ 2264  npx create-react-app user-directory
+ 2265  ls
+ 2266  cd user-directory
+ 2267  npm start
+ 2268  git add -A
+ 2269  git commit -m "Uploading initial files. Changed to React structure."
+ 2270  git push
+ 2271  npm install axios
+ 2272  git add -A
+ 2273  git commit -m "added the API to get random people data"
+ 2274  git push
+ 2275  npm start
+ 2276  git add -A
+ 2277  git commit -m "added component files and updated readme"
+ 2278  git push
+ 2279  npm install gh-pages --save-dev
+ 2280  git init
+ 2281  git remote add origin https://github.com/kheller18/react-gh-pages.git
+ 2282  npm run deploy
+ 2283  git add -A
+ 2284  git commit -m "deployed to github pages"
+ 2285  git push origin main
+ 2286  git push
+ 2287  git push --set-upstream origin master
+ 2288  ../
+ 2289  npm install
+ 2290  cd client
+ 2291  npm install
+ 2292  ../
+ 2293  npm install
+ 2294  npm run start
+ 2295  npm install
+ 2296  npm run start
+ 2297  npm install mongoose
+ 2298  npm run start
+ 2299  npm start
+ 2300  npm install body-parser
+ 2301  npm run start
+ 2302  npm install crypto
+ 2303  npm install react-router-dom
+ 2304  npm install prop-types
+ 2305  npm run start
+ 2306  npm install react-router
+ 2307  npm run start
+ 2308  npm install express-session
+ 2309  npm install passport-local-mongoose
+ 2310  npm run start
+ 2311  npm install connect-ensure-login
+ 2312  npm run start
+ 2313  npm install
+ 2314  npm run start
+ 2315  npm install morgan
+ 2316  npm install dotenv
+ 2317  npm run start
+ 2318  npm install jsonwebtoken
+ 2319  npm run start
+ 2320  npm install react
+ 2321  npm run start
+ 2322  npm run build
+ 2323  git add -A
+ 2324  git commit -m "added multiple components. app functional"
+ 2325  git push
+ 2326  heroku create sportsbook-app
+ 2327  heroku create sportsbook-app-kman
+ 2328  git add -A
+ 2329  git commit -m "deploying"
+ 2330  git push heroku main
+ 2331  npm install node
+ 2332  npm install node.js
+ 2333  npm install nodejs
+ 2334  git add -A
+ 2335  git commit -m "updated login"
+ 2336  git push
+ 2337  git push heroku main
+ 2338  npm install
+ 2339  git add -A
+ 2340  git commit -m "deploying"
+ 2341  git push heroku main
+ 2342  npm run build
+ 2343  cd client
+ 2344  npm run build
+ 2345  ../
+ 2346  npm run start
+ 2347  git add -A
+ 2348  git commit -m "deploying"
+ 2349  git push
+ 2350  git push heroku main
+ 2351  cd client
+ 2352  npm install
+ 2353  git add -A
+ 2354  git commit -m "deploying"
+ 2355  git push heroku main
+ 2356  ../
+ 2357  heroku open
+ 2358  git push heroku main
+ 2359  npm install eslint-webpack-plugin
+ 2360  git add -
+ 2361  git add -A
+ 2362  git commit -m "added webpack"
+ 2363  git push
+ 2364  git push heroku main
+ 2365  npm install eslint-formatter-pretty
+ 2366  git add -A
+ 2367  git commit -m "deploying:\n"
+ 2368  git push heroku main
+ 2369  npm
+ 2370  git add -A
+ 2371  git commit -m "deploying"
+ 2372  git push heroku main
+ 2373  cd client
+ 2374  npm install
+ 2375  ../
+ 2376  npm install
+ 2377  git add -A
+ 2378  git commit -m "deploying"
+ 2379  git push heroku main
+ 2380  cd client
+ 2381  npm install webpack
+ 2382  npm install eslint-formatter-pretty
+ 2383  npm install eslint-webpack-plugin
+ 2384  git add -A
+ 2385  git commit -m "deploying"
+ 2386  git push heroku main
+ 2387  ../
+ 2388  git push heroku main
+ 2389  npm run start
+ 2390  cd client
+ 2391  npm install
+ 2392  ../
+ 2393  git add -A
+ 2394  git commit -m "deploying"
+ 2395  git push heroku main
+ 2396  npm run build
+ 2397  npm install
+ 2398  npm run build
+ 2399  cd client
+ 2400  npm install
+ 2401  ../
+ 2402  npm run build
+ 2403  git add -A
+ 2404  git commit -m "deploying"
+ 2405  git push heroku main
+ 2406  npm install
+ 2407  cd client
+ 2408  npm install
+ 2409  ../
+ 2410  git add -A
+ 2411  git commit -m "updated package"
+ 2412  git push
+ 2413  git push heroku main
+ 2414  git add -A
+ 2415  git commit -m "fixed server file"
+ 2416  git push
+ 2417  git push heroku main
+ 2418  git add -A
+ 2419  git commit -m "deploying"
+ 2420  git push 
+ 2421  git push heroku main
+ 2422  cd client
+ 2423  npm install
+ 2424  ../
+ 2425  npm install
+ 2426  git add -A
+ 2427  git commit -m "updated package info"
+ 2428  git push
+ 2429  git push heroku main
+ 2430  cd client
+ 2431  npm install react-scripts
+ 2432  ../
+ 2433  git add -A
+ 2434  git commit -m 
+ 2435  git commit -m "updated dependencies"
+ 2436  git push
+ 2437  git push heroku main
+ 2438  npm install web-vitals
+ 2439  cd client
+ 2440  npm install web-vitals
+ 2441  ../
+ 2442  git add -A
+ 2443  git commit -m "added web-vitals package"
+ 2444  git push
+ 2445  git push heroku main
+ 2446  heroku open
+ 2447  git add -A
+ 2448  git commit -m "fixed routes"
+ 2449  git push
+ 2450  git push heroku main
+ 2451  heroku open
+ 2452  git add -A
+ 2453  git commit -m "fixing buildpack"
+ 2454  git push heroku main
+ 2455  git add -A
+ 2456  git commit -m "fixed buildpack"
+ 2457  git push heroku main
+ 2458  heroku open
+ 2459  npm run start
+ 2460  npm run build
+ 2461  npm run start
+ 2462  cd Desktop
+ 2463  cd bootcamp-homeworks
+ 2464  cd user-directory
+ 2465  git add -A
+ 2466  git commit -m "added header component"
+ 2467  git push
+ 2468  git add -A
+ 2469  git commit -m "added name component and file to create contexts"
+ 2470  git push
+ 2471  npm run start
+ 2472  git add -A
+ 2473  git commit -m "hiding api key"
+ 2474  git push
+ 2475  git push heroku main
+ 2476  heroku open
+ 2477  cd client
+ 2478  npm install aws-sdk
+ 2479  ../
+ 2480  git push heroku main
+ 2481  git add -A
+ 2482  git commit -m "updating heroku api key"
+ 2483  git push
+ 2484  git push heroku main
+ 2485  git add -A
+ 2486  git commit -m "fixed syntax"
+ 2487  git add -A
+ 2488  git commit -m "fixed syntax"
+ 2489  git push
+ 2490  git push heroku main
+ 2491  heroku open
+ 2492  git add -A
+ 2493  git commit -m "attempting to fix api key on heroku"
+ 2494  git push
+ 2495  git push heroku main
+ 2496  heroku open
+ 2497  git add -A
+ 2498  git commit -m "cleaned up files, added comments"
+ 2499  git push
+ 2500  git push heroku main
+ 2501  heroku open
+ 2502  ../
+ 2503  cd readme-generator
+ 2504  node index.js
+ 2505  git add -A
+ 2506  git commit -m "added readme"
+ 2507  git push
+ 2508  npm run start
+ 2509  mongod --dbpath /Desktop/data/db/
+ 2510  mongod
+ 2511  mogod --dbpath /Desktop/data/db
+ 2512  mongod --dbpath /Desktop/data/db
+ 2513  mongod --dbpath /Desktop/data/db/
+ 2514  mongod -dbpath /Desktop/data/db/
+ 2515  mongod --dbpath /Desktop/data/db/
+ 2516  cd Desktop
+ 2517  mongod --dbpath /Desktop/data/db/
+ 2518  ../
+ 2519  mongod --dbpath /Desktop/data/db/
+ 2520  mongo
+ 2521  mongod
+ 2522  mongo
+ 2523  lsof -i :27017
+ 2524  mongo
+ 2525  service mongod stop
+ 2526  systemctl start mongod
+ 2527  mongo
+ 2528  mongod
+ 2529  mongo
+ 2530  compaudig
+ 2531  compaudit
+ 2532  sudo chmod -R 755 /usr/local/share/zsh/site-functions
+ 2533  compaudit
+ 2534  sudo chmod -R 755 /usr/local/share/zsh
+ 2535  compaudit
+ 2536  sudo mongo
+ 2537  mongo
+ 2538  mongod
+ 2539  zsh
+ 2540  mongo
+ 2541  mongod
+ 2542  mongo
+ 2543  mongod --repair
+ 2544  ls
+ 2545  sudo rm /var/lib/mongodb/mongod.lock
+ 2546  mongod --dbpath /Desktop/data/db/
+ 2547  mongod -dbpath /Desktop/data/db/
+ 2548  mongo
+ 2549  mongod
+ 2550  mongod -repair
+ 2551  mongod --repair
+ 2552  sudo service mongod start
+ 2553  mongod start
+ 2554  mongod --dbpath /Desktop/data/db
+ 2555  mongod --dbpath /Desktop/data/db/
+ 2556  sudo service mongod start
+ 2557  sudo mongod --dbpath ~/Desktop/data/db/
+ 2558  sudo mongod --dbpath /Desktop/data/db/
+ 2559  mongod --dbpath /Desktop/data/db/
+ 2560  sudo systemctl start mongod
+ 2561  systemcti start mongod
+ 2562  mongod -h
+ 2563  mongod --repair
+ 2564  mongo --repair --dbpath /Desktop/data/db/
+ 2565  mongod --repair --dbpath /Desktop/data/db/
+ 2566  sudo mongod --repair --dbpath /Desktop/data/db/
+ 2567  sudo mongod --repair --dbpath ~/Desktop/data/db/
+ 2568  sudo mongod --repair --dbpath ~/Desktop/data/db
+ 2569  sudo mongod --dbpath ~/Desktop/data/db
+ 2570  sudo mongod --repair --dbpath ~/Desktop/data/db
+ 2571  brew tap mongodb/brew
+ 2572  mongo
+ 2573  mongod
+ 2574  sudo mongod
+ 2575  sudo mongod --dbpath /Desktop/data/db/
+ 2576  sudo mongod --dbpath /Desktop/data/db
+ 2577  sudo mongod --dbpath "/Desktop/data/db"
+ 2578  sudo mongod --dbpath "/Desktop/data/db/"
+ 2579  sudo mongod --dbpath ~/Desktop/data/db
+ 2580  sudo mongod --repair --dbpath ~/Desktop/data/db
+ 2581  sudo mongod --repair --dbpath ~/Desktop/data/db/
+ 2582  grep mongod
+ 2583  mongod
+ 2584  sudo mongod
+ 2585  mongod --dbpath /Desktop/data/db/
+ 2586  grep mongod
+ 2587  cd
+ 2588  sudo chown -R 'id-un' /Desktop/data/db/
+ 2589  sudo chown -R 'id -un' /Desktop/data/db/
+ 2590  sudo chown -R `id -un` /Desktop/data/db/
+ 2591  sudo chown -R `id -un` ~/Desktop/data/db/
+ 2592  mongod --dbpath /Desktop/data/db/
+ 2593  sudo mongod --dbpath /Desktop/data/db/
+ 2594  sudo mongod --dbpath ~/Desktop/data/db/
+ 2595  sudo mongod --repair --dbpath ~/Desktop/data/db/
+ 2596  sudo mongod --repair --dbpath=~/Desktop/data/db/
+ 2597  sudo mongod --dbpath=~/Desktop/data/db/
+ 2598  mongod --dbpath=~/Desktop/data/db/
+ 2599  mongod --dbpath=~/Desktop/data/db
+ 2600  cd
+ 2601  mkdir mongoData
+ 2602  sudo chown -R `id-un` mongoData
+ 2603  sudo chown -R `id -un` mongoData
+ 2604  pwd
+ 2605  cd mongoData
+ 2606  pwd
+ 2607  mongod --dbpath=/Users/keenanheller/mongoData
+ 2608  cd
+ 2609  mkdir data
+ 2610  cd data
+ 2611  mkdir db
+ 2612  ls
+ 2613  cd
+ 2614  mongod
+ 2615  sudo mongod
+ 2616  kill -9 84325
+ 2617  cat /usr/local/etc/mongod.conf
+ 2618  brew services start mongodb-community@4.4
+ 2619  mongod
+ 2620  mongo
+ 2621  mongod --dbpath /Desktop/data/db/
+ 2622  brew update
+ 2623  brew install mongodb
+ 2624  sudo chown _R `id un` /data/db
+ 2625  sudo chown -R `id -un` /data/db
+ 2626  cd
+ 2627  ls
+ 2628  sudo chown -R `id -un` ~/data/db
+ 2629  mongod
+ 2630  brew tap mongo/brew
+ 2631  brew --version
+ 2632  brew tap mongo
+ 2633  brew tap mongodb/brew
+ 2634  brew install mongodb-database-tools
+ 2635  brew upgrade mongodb/brew/mongodb-database-tools
+ 2636  softwareupdate --all --install --force
+ 2637  brew upgrade mongodb/brew/mongodb-database-tools
+ 2638  xcode
+ 2639  softwareupdate --list
+ 2640  xcode-select --install
+ 2641  sudo xcode-select --switch /Applications/Xcode.app
+ 2642  brew upgrade mongodb/brew/mongodb-database-tools
+ 2643  mongod
+ 2644  brew mongod start
+ 2645  brew start mongod
+ 2646  brew mongo start
+ 2647  mongo
+ 2648  sudo chown -R `id -u` /data/db
+ 2649  sudo chown -R `id -u` ~/data/db
+ 2650  mongod
+ 2651  rm /tmp/mongodb-27017.sock
+ 2652  sudo rm /tmp/mongodb-27017.sock
+ 2653  mongod
+ 2654  sudo mongod
+ 2655  mongod --dbpath /data/db
+ 2656  grep mongo
+ 2657  grep mongod
+ 2658  grep
+ 2659  grep mongodb
+ 2660  mongod --config /usr/local/etc/mongod.conf --fork
+ 2661  mongod --config /usr/local/etc/mongod.conf
+ 2662  mongod
+ 2663  mongod --dbpath /Desktop/data/db/
+ 2664  sudo rm /tmp/mongodb-27017.sock
+ 2665  mongod --dbpath /Desktop/data/db/
+ 2666  mongod --dbpath /Desktop/data/db
+ 2667  mongod
+ 2668  sudo rm /tmp/mongodb-27017.sock
+ 2669  mongod --dbpath /Desktop/data/db/
+ 2670  mongod --dbpath /Desktop/data/db/
+ 2671  mongod --dbpath ~/Desktop/data/db/
+ 2672  npm run start
+ 2673  mongod
+ 2674  mongod --dbpath ~/Desktop/data/db/
+ 2675  sudo mongod --dbpath ~/Desktop/data/db/
+ 2676  mongod --dbpath ~/Desktop/data/db/
+ 2677  sudo mongod
+ 2678  sudo mongod --dbpath /Desktop/data/db/
+ 2679  cd Desktop
+ 2680  cd projects
+ 2681  git clone https://github.com/kheller18/binge.git
+ 2682  ls
+ 2683  cd
+ 2684  sudo mongod --dbpath /Desktop/data/db/
+ 2685  mongod --dbpath /Desktop/data/db/
+ 2686  sudo mongod
+ 2687  mongod
+ 2688  mongod --repair --dbpath /Desktop/data/db/
+ 2689  mongod --repair --dbpath ~/Desktop/data/db/
+ 2690  mongod --dbpath ~/Desktop/data/db/
+ 2691  mongod --dbpath /Desktop/data/db/
+ 2692  sudo mongod --dbpath ~/Desktop/data/db/
+ 2693  pidof mongod
+ 2694  pgrep mongod
+ 2695  kill 490
+ 2696  pgrep mongod
+ 2697  mongod --dbpath ~/Desktop/data/db/
+ 2698  sudo mongod --dbpath ~/Desktop/data/db/
+ 2699  lsof -i :3000
+ 2700  lsof -i :3001
+ 2701  npx create-react-app binge
+ 2702  cd Desktop
+ 2703  cd projects
+ 2704  cd binge
+ 2705  npx create-react-app
+ 2706  npx create-react-app binge
+ 2707  npm init
+ 2708  git add -A
+ 2709  git commit -m "uploading initial files"
+ 2710  git push
+ 2711  ls
+ 2712  cd binge
+ 2713  ls
+ 2714  npm install
+ 2715  cd client
+ 2716  npm install
+ 2717  ../
+ 2718  npm install mongoose
+ 2719  npm install passport-local-mongoose
+ 2720  npm install
+ 2721  npm run start
+ 2722  ..
+ 2723  cd sportsbook
+ 2724  ../
+ 2725  cd binge
+ 2726  npm install
+ 2727  cd client
+ 2728  npm install
+ 2729  ../
+ 2730  npm run start
+ 2731  npm install
+ 2732  npm run start
+ 2733  npm install express
+ 2734  npm install express-session
+ 2735  npm run start
+ 2736  npm install
+ 2737  npm run start
+ 2738  git add -A
+ 2739  git commit -m "server running locally"
+ 2740  git push
+ 2741  npm install react-router-dom
+ 2742  npm install axios
+ 2743  npm install passport-local-mongoose
+ 2744  npm run start
+ 2745  npm install jsonwebtoken
+ 2746  npm run start
+ 2747  git add -A
+ 2748  git commit -m "added sign in  component and routes. Redirects to members page." 
+ 2749  git push
+ 2750  npm run start
+ 2751  cd seeders
+ 2752  node run eventSeed.js
+ 2753  node eventSeed.js
+ 2754  ../
+ 2755  npm run start
+ 2756  git add -A
+ 2757  git commit -m "added event routes. basic event info prints to page."
+ 2758  git push
+ 2759  npm run start
+ 2760  git add -A
+ 2761  git commit -m "added profile section. Can only see first and last name."
+ 2762  git push
+ 2763  npm run start
+ 2764  git add -A
+ 2765  git commit -m "user able to update profile information."
+ 2766  git push
+ 2767  npm run start
+ 2768  git add -A
+ 2769  git commit -m "added all sports available from API"
+ 2770  git push
+ 2771  npm run start
+ 2772  git add -A
+ 2773  git commit -m "User able to add multiple bets to betslip at one time now.  Working on bulk submission"
+ 2774  git push
+ 2775  npm run start
+ 2776  git add -A
+ 2777  git commit -m "added feature to allow multiple bet slips at a time. User can delete and update slip as they choose. Submittal works for both single and multiple slips"
+ 2778  git push
+ 2779  npm run start
+ 2780  git add -A
+ 2781  git commit -m "app now updates components more responsibly"
+ 2782  git push
+ 2783  npm run start
+ 2784  git add -A
+ 2785  git commit -m "app now displays confirmation message to user when bet slips have successfully been submitted"
+ 2786  git push
+ 2787  npm run start
+ 2788  git add -A
+ 2789  git commit -m "user can submit multiple bets. Bet slip area updates to show submitted and then empty cart after timeout."
+ 2790  git push
+ 2791  npm run start
+ 2792  npm install socket.io
+ 2793  npm run start
+ 2794  npm install http
+ 2795  npm run start
+ 2796  npm install socket.io-client
+ 2797  npm run start
+ 2798  npm install socket.io-client
+ 2799  npm run start
+ 2800  ~
+ 2801  npm run start
+ 2802  ls
+ 2803  cd seeders
+ 2804  npm run seed
+ 2805  node run seed
+ 2806  node seed.js
+ 2807  ./
+ 2808  ../
+ 2809  npm run start
+ 2810  node seed.js
+ 2811  cd seeders
+ 2812  node seed.js
+ 2813  ../
+ 2814  npm run start
+ 2815  cd seeders
+ 2816  node seed.js
+ 2817  ../
+ 2818  npm run start
+ 2819  ../
+ 2820  cd seeders
+ 2821  node seed.js
+ 2822  ../
+ 2823  npm run start
+ 2824  cd seeders
+ 2825  node seed.js
+ 2826  ../
+ 2827  npm run start
+ 2828  cd seeders
+ 2829  node seed.js
+ 2830  ../
+ 2831  npm run start
+ 2832  cd seeders
+ 2833  node seed.js
+ 2834  ../
+ 2835  npm run start
+ 2836  cd seeders
+ 2837  node seed.js
+ 2838  ../
+ 2839  npm run start
+ 2840  cd seeders
+ 2841  node seed.js
+ 2842  ../
+ 2843  npm run start
+ 2844  cd seeders
+ 2845  node seed.js
+ 2846  ../
+ 2847  npm run start
+ 2848  cd seeders
+ 2849  node seed.js
+ 2850  ../
+ 2851  npm run start
+ 2852  cd seeders
+ 2853  node seed.js
+ 2854  ../
+ 2855  npm run start
+ 2856  cd seeders
+ 2857  node seed
+ 2858  ../
+ 2859  npm run start
+ 2860  cd seeders
+ 2861  node seed
+ 2862  ../
+ 2863  npm run start
+ 2864  cd seeders
+ 2865  node seed
+ 2866  ../
+ 2867  npm run start
+ 2868  cd seeders
+ 2869  node seed
+ 2870  ../
+ 2871  npm run start
+ 2872  cd seeders
+ 2873  node seed
+ 2874  ../
+ 2875  npm run start
+ 2876  cd seeders
+ 2877  node seed
+ 2878  ../
+ 2879  npm run start
+ 2880  cd seeders
+ 2881  node seed
+ 2882  ../
+ 2883  npm run start
+ 2884  cd seeders
+ 2885  node seed
+ 2886  ../
+ 2887  npm run start
+ 2888  npm install lodash
+ 2889  npm run start
+ 2890  cd client
+ 2891  npm install lodash
+ 2892  ../
+ 2893  npm run start
+ 2894  npm install
+ 2895  npm run start
+ 2896  npm install node-cron
+ 2897  npm run start
+ 2898  git add -A
+ 2899  git commit -m "updated nav menu, betting area and bet slips. Different bet types now available. App gets fed data from server every minute."
+ 2900  git push
+ 2901  npm run start
+ 2902  lsof -i : 3001
+ 2903  lsof -i  3001
+ 2904  lsof -i :3001
+ 2905  kill -9 69553
+ 2906  npm run start
+ 2907  lsof -i :3001
+ 2908  kill -9 70074
+ 2909  npm run start
+ 2910  lsof -i :3001
+ 2911  kill -9 70994
+ 2912  npm run start
+ 2913  lsof -i :3001
+ 2914  kill -9 71177
+ 2915  npm run start
+ 2916  lsof -i :3001
+ 2917  kill -9 71288
+ 2918  npm run start
+ 2919  lsof -i :3001
+ 2920  kill -9 71360
+ 2921  npm run start
+ 2922  lsof -i :3001
+ 2923  kill -9 71506
+ 2924  npm run start
+ 2925  lsof -i :3001
+ 2926  npm run start
+ 2927  lsof -i :3001
+ 2928  kill -9 71611
+ 2929  npm run start
+ 2930  lsof -i :3001
+ 2931  kill -9 71711
+ 2932  npm run start
+ 2933  lsof -i :3001
+ 2934  lsof -i :3000
+ 2935  npm run start
+ 2936  lsof -i :3000
+ 2937  lsof -i :3001
+ 2938  npm run start
+ 2939  lsof -i :3001
+ 2940  npm run start
+ 2941  lsof -i :3001
+ 2942  npm run start
+ 2943  lsof -i :3001
+ 2944  kill -9 72740
+ 2945  kill -9 72470
+ 2946  npm run start
+ 2947  lsof -i :3001
+ 2948  npm run start
+ 2949  lsof -i :3001
+ 2950  kill -9 73900
+ 2951  npm run start
+ 2952  lsof -i :3001
+ 2953  npm run start
+ 2954  lsof -i :3001
+ 2955  kill -9 74018
+ 2956  npm run start
+ 2957  ../
+ 2958  cd sportsbook
+ 2959  cd seeders
+ 2960  node sportSeed.js
+ 2961  ../
+ 2962  npm run start
+ 2963  lsof -i :3001
+ 2964  kill -9 74653
+ 2965  npm run start
+ 2966  lsof -i :3001
+ 2967  kill -9 74785
+ 2968  npm run start
+ 2969  lsof -i :3001
+ 2970  npm run start
+ 2971  lsof -i :3001
+ 2972  kill -9 74897
+ 2973  npm run start
+ 2974  lsof -i :3001
+ 2975  kill -9 75012
+ 2976  cd seeders
+ 2977  node sportSeed.js
+ 2978  ../
+ 2979  npm run start
+ 2980  lsof -i :3001
+ 2981  kill -9 75112
+ 2982  npm run start
+ 2983  lsof -i :3001
+ 2984  kill -9 75353
+ 2985  npm run start
+ 2986  lsof -i :3001
+ 2987  kill -9 75848
+ 2988  npm run start
+ 2989  lsof -i :3001
+ 2990  npm run start
+ 2991  lsof -i :3001
+ 2992  kill -9 76576
+ 2993  npm run start
+ 2994  lsof -i :3001
+ 2995  kill -9 76688
+ 2996  npm run start
+ 2997  lsof -i :3001
+ 2998  kill -9 76799
+ 2999  npm run start
+ 3000  lsof -i :3001
+ 3001  npm run start
+ 3002  lsof -i :3001
+ 3003  kill -9 78676
+ 3004  npm run start
+ 3005  lsof -i :3001
+ 3006  kill -9 78775
+ 3007  npm run start
+ 3008  lsof -i :3001
+ 3009  kill -9 78866
+ 3010  npm run start
+ 3011  lsof -i :3001
+ 3012  kill -9 78966
+ 3013  npm run start
+ 3014  lsof -i :3001
+ 3015  npm run start
+ 3016  git add -A
+ 3017  git commit -m "updated styling, nav menu now active. App functional."
+ 3018  git push
+ 3019  npm run start
+ 3020  lsof -i :3001
+ 3021  lsof -i :3000
+ 3022  npm run start
+ 3023  lsof -i :3001
+ 3024  npm run start
+ 3025  lsof -i :3001
+ 3026  npm run start
+ 3027  lsof -i :3001
+ 3028  npm run start
+ 3029  lsof -i :3001
+ 3030  kill -9 79697
+ 3031  kill -9 80287
+ 3032  npm run start
+ 3033  lsof -i :3001
+ 3034  npm run start
+ 3035  lsof -i :3001
+ 3036  kill -9 80494
+ 3037  npm run start
+ 3038  lsof -i :3001
+ 3039  kill -9 80704
+ 3040  npm run start
+ 3041  lsof -i :3001
+ 3042  npm run start
+ 3043  lsof -i :3001
+ 3044  kill -9 80981
+ 3045  npm run start
+ 3046  lsof -i :3001
+ 3047  kill -9 81082
+ 3048  npm run start
+ 3049  lsof -i :3001
+ 3050  kill -9 81169
+ 3051  npm run start
+ 3052  lsof -i :3001
+ 3053  kill -9 81253
+ 3054  npm run start
+ 3055  lsof -i :3001
+ 3056  kill -9 81388
+ 3057  npm run start
+ 3058  lsof -i :3001
+ 3059  npm run start
+ 3060  lsof -i :3001
+ 3061  kill -9 16582
+ 3062  npm run start
+ 3063  lsof -i :3001
+ 3064  npm run start
+ 3065  lsof -i :3001
+ 3066  npm run start
+ 3067  lsof -i :3001
+ 3068  npm run start
+ 3069  lsof -i :3001
+ 3070  kill -9 16917
+ 3071  npm run start
+ 3072  lsof -i :3001
+ 3073  kill -9 17044
+ 3074  npm run start
+ 3075  lsof -i :3001
+ 3076  kill -9 17120
+ 3077  npm run start
+ 3078  lsof -i :3001
+ 3079  kill -9 17241
+ 3080  npm run start
+ 3081  lsof -i :3001
+ 3082  npm run start
+ 3083  lsof -i :3001
+ 3084  npm run start
+ 3085  lsof -i :3001
+ 3086  npm run start
+ 3087  lsof -i :3001
+ 3088  npm run start
+ 3089  lsof -i :3001
+ 3090  npm run start
+ 3091  lsof -i :3001
+ 3092  npm run start
+ 3093  lsof -i :3001
+ 3094  git add -A
+ 3095  git commit -m "updated game container. player props displayed but buttons not active."
+ 3096  git push
+ 3097  npm run start
+ 3098  npm install puppeteer
+ 3099  npm install
+ 3100  cd services
+ 3101  node resultSeed.js
+ 3102  node resultSeed
+ 3103  npm run start
+ 3104  node resultSeed
+ 3105  ../
+ 3106  npm run start
+ 3107  ./
+ 3108  ../
+ 3109  ls
+ 3110  cd dev-projects
+ 3111  npm create-react-app
+ 3112  npx create-react-app dex
+ 3113  npm install node
+ 3114  npx create-react-app dex
+ 3115  cd projects
+ 3116  npx create-react-app dex
+ 3117  npm install node
+ 3118  node
+ 3119  update
+ 3120  npm update
+ 3121  npm install
+ 3122  npm update node
+ 3123  nvm install node
+ 3124  npm install -g n
+ 3125  sudo npm cache clean -f
+ 3126  sudo npm install -g n
+ 3127  sudo n stable
+ 3128  npm v
+ 3129  node -v
+ 3130  npx create-react-app dex
+ 3131  npm install -g npm@8.3.2
+ 3132  sudo npm install -g npm@8.3.2
+ 3133  npm audit fix
+ 3134  npm run start
+ 3135  npm install passport
+ 3136  npm run start
+ 3137  npm install
+ 3138  npm run start
+ 3139  cd client
+ 3140  npm install
+ 3141  ../
+ 3142  npm run start
+ 3143  cd client
+ 3144  npm run start
+ 3145  npm install
+ 3146  npm run start
+ 3147  ../
+ 3148  npm install
+ 3149  npm run start
+ 3150  npm install
+ 3151  npm run start
+ 3152  npm install
+ 3153  cd client
+ 3154  npm install
+ 3155  ../
+ 3156  npm run start
+ 3157  npm install express
+ 3158  npm install
+ 3159  npm run start
+ 3160  npm install
+ 3161  npm run start
+ 3162  npm install
+ 3163  npm run start
+ 3164  npm install
+ 3165  npm run start
+ 3166  npm install path
+ 3167  npm install
+ 3168  npm run start
+ 3169  cd client
+ 3170  npm run build
+ 3171  ../
+ 3172  npm install
+ 3173  npm run start
+ 3174  npm install
+ 3175  npm run start
+ 3176  node server.js
+ 3177  npm install mongoose
+ 3178  node server.js
+ 3179  npm run start
+ 3180  npm install nodemon
+ 3181  npm install
+ 3182  npm run start
+ 3183  npm install if-env
+ 3184  npm install
+ 3185  npm run start
+ 3186  npm install nodemon
+ 3187  npm install concurrently
+ 3188  npm install
+ 3189  npm run start
+ 3190  npm install
+ 3191  cd client
+ 3192  npm install
+ 3193  npm run start
+ 3194  ../
+ 3195  cd seeders
+ 3196  node retailCard.js
+ 3197  ../
+ 3198  npm install
+ 3199  npm run seed
+ 3200  cd seeders
+ 3201  node retailSeed.js
+ 3202  mongod --dbpath ~/Desktop/data/db/ 
+ 3203  mongod --dbpath /Desktop/data/db/
+ 3204  mongo
+ 3205  mongod --dbpath /Desktop/data/db/
+ 3206  sudo mongod --dbpath /Desktop/data/db/
+ 3207  mongod --dbpath /Desktop/data/db/
+ 3208  mongod --dbpath /Desktop/data/db
+ 3209  mongod --dbpath /Desktop/data/db/
+ 3210  mongod --dbpath /Desktop/data/db/ 
+ 3211  sudo mongod --dbpath /Desktop/data/db/
+ 3212  node retailSeed.js
+ 3213  lsof -i 27017
+ 3214  lsof - i 27017
+ 3215  grep 27017
+ 3216  lsof -i :27017
+ 3217  node retailSeed.js
+ 3218  kill -9 5948
+ 3219  kill -9 535
+ 3220  sudo mongod --dbpath /Desktop/data/db/
+ 3221  mongod --dbpath ~/Desktop/data/db/
+ 3222  mongod --dbpath /Desktop/data/db/
+ 3223  mongod --dbpath ~/Desktop/data/db/
+ 3224  sudo mongod --dbpath /Desktop/data/db/
+ 3225  lsof -i :27017
+ 3226  mongod --dbpath /Desktop/data/db/
+ 3227  mongo
+ 3228  sudo mongo
+ 3229  brew services start mongodb
+ 3230  mongo
+ 3231  sudo mongod
+ 3232  sudo mongo
+ 3233  brew services start mongodb-community
+ 3234  brew services restart mongodb-community
+ 3235  mongod --dbpath /Desktop/data/db/
+ 3236  mongo
+ 3237  lsof -i :27017
+ 3238  sudo mongo
+ 3239  mongo
+ 3240  cd seeders
+ 3241  node retailSeed.js
+ 3242  ../
+ 3243  npm install
+ 3244  npm run start
+ 3245  npm install axios
+ 3246  npm run start
+ 3247  cd seeders
+ 3248  node retailSeed.js
+ 3249  ../
+ 3250  npm run start
+ 3251  lsof -i :3000
+ 3252  npm run start
+ 3253  npm install http
+ 3254  npm install
+ 3255  npm run start
+ 3256  npm install socket.io
+ 3257  npm run start
+ 3258  npm install express-session
+ 3259  npm install
+ 3260  cd client
+ 3261  npm install
+ 3262  ../
+ 3263  npm run start
+ 3264  npm run build
+ 3265  npm run start
+ 3266  cd client
+ 3267  npm install axios
+ 3268  npm install
+ 3269  ../
+ 3270  npm install
+ 3271  npm run start
+ 3272  cd seeders
+ 3273  node retailSeed.js
+ 3274  npm run start
+ 3275  ../
+ 3276  npm run start
+ 3277  cd seeders
+ 3278  node retailSeed.js
+ 3279  ../
+ 3280  npm run start
+ 3281  cd seeders
+ 3282  node retailSeed.js
+ 3283  ../
+ 3284  npm run start
+ 3285  npm install react-router-dom
+ 3286  npm run start
+ 3287  ../
+ 3288  cd dex
+ 3289  cd client
+ 3290  npm install react-router-dom
+ 3291  npm install
+ 3292  ../
+ 3293  npm run start
+ 3294  npm install
+ 3295  cd seeders
+ 3296  node reviewSeed.js
+ 3297  ../
+ 3298  npm run start
+ 3299  import google-map-react
+ 3300  npm install google-map-react
+ 3301  npm run start
+ 3302  cd seeders
+ 3303  node reviewSeed.js
+ 3304  ../
+ 3305  npm run start
+ 3306  npm install
+ 3307  npm run start
+ 3308  npm install @iconify/react
+ 3309  npm install @iconify/icons-mdi/map-marker
+ 3310  npm install
+ 3311  npm run start
+ 3312  npm install @iconify/icons-mdi
+ 3313  npm install @inconify/map-marker
+ 3314  npm install @iconify/map-marker
+ 3315  npm install
+ 3316  npm run start
+ 3317  npm install react-twitter-embed
+ 3318  npm install
+ 3319  npm run start
+ 3320  npm install
+ 3321  cd client
+ 3322  npm install react-twitter-embed
+ 3323  npm install
+ 3324  ../
+ 3325  npm install
+ 3326  npm run start
+ 3327  npm install react-instagram-embed
+ 3328  cd client
+ 3329  npm install react-instagram-embed
+ 3330  ../
+ 3331  cd client
+ 3332  npm i react-ig-embed
+ 3333  npm install
+ 3334  ../
+ 3335  npm i react-ig-embed
+ 3336  npm install
+ 3337  npm run start
+ 3338  npm i react-social-media-embed
+ 3339  cd client
+ 3340  npm i react-social-media-embed
+ 3341  ../
+ 3342  npm install
+ 3343  npm run start
+ 3344  git add -A
+ 3345  git commit -m "initial commit"
+ 3346  git push
+ 3347  git push https://github.com/kheller18/ssr
+ 3348  git push --set-upstream https://github.com/kheller18/ssr master
+ 3349  git add -A
+ 3350  git commit -m "inital commit"
+ 3351  ../
+ 3352  cd ssr
+ 3353  heroku login
+ 3354  git add -A
+ 3355  git commit -am "deploy to heroku"
+ 3356  git push heroku master
+ 3357  heroku git:remote -a seattlesandwichreview
+ 3358  git push heroku master
+ 3359  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 3360  conda --version
+ 3361  conda update conda
+ 3362  conda update anaconda
+ 3363  conda create -n dev python=3.7 anaconda
+ 3364  conda activate dev
+ 3365  conda init zsh
+ 3366  conda activate dev
+ 3367  python -m ipykernel install --user --name dev\n\n
+ 3368  conda install -c conda-forge nodejs
+ 3369  conda deactivate
+ 3370  conda activate dev
+ 3371  jupyter lab
+ 3372  conda deactivate
+ 3373  ../
+ 3374  git clone "git@uwa.bootcampcontent.com:UWA-Bootcamp/UW-VIRT-FIN-PT-10-2022-U-B.git"
+ 3375  ls
+ 3376  python
+ 3377  ls
+ 3378  cd Class\ Materials
+ 3379  ls
+ 3380  cd Week-01\ -\ Financial\ Programming\ with\ Python
+ 3381  ls
+ 3382  cd Class_1_Activities
+ 3383  ls
+ 3384  cd 01
+ 3385  cd 01_Ins_Variables
+ 3386  cd solved
+ 3387  python
+ 3388  python3
+ 3389  ls
+ 3390  cd Class\ Materials
+ 3391  ls
+ 3392  cd Week-01\ -\ Financial\ Programming\ with\ Python
+ 3393  ls
+ 3394  cd Class_1_Activities
+ 3395  ls
+ 3396  cd 01_Ins_Variables
+ 3397  cd solved
+ 3398  ls
+ 3399  python3
+ 3400  ls
+ 3401  ../
+ 3402  cd 02_Stu_Percent_Increase
+ 3403  ../
+ 3404  git pull
+ 3405  python dicts.py
+ 3406  cd Desktop
+ 3407  ls
+ 3408  cd bootcamp-homeworks
+ 3409  ls
+ 3410  mkdir "fintech"
+ 3411  ls
+ 3412  cd fintech
+ 3413  git clone "https://github.com/kheller18/loan_calculator.git"
+ 3414  ls
+ 3415  cd hello_variable_world.py
+ 3416  python hello_variable_world.py
+ 3417  python3
+ 3418  python hello_variable_world.py
+ 3419  python3 listing_assets.py
+ 3420  python the_401k_shuffle.py
+ 3421  ../
+ 3422  cd Solved
+ 3423  python3 the_401k_shuffle.py
+ 3424  python3 split_second_homebuying.py
+ 3425  python3 returned_goods.py
+ 3426  python3 split_second_part_2.py
+ 3427  python3 pathways_to_success.py
+ 3428  python3 main.py
+ 3429  git add -A
+ 3430  git commit -m "completed part 2. Loan basic function working"
+ 3431  git push
+ 3432  python3 main.py
+ 3433  git add -A
+ 3434  git commit -m "completed parts 3,4 and 5. Ouptut to CSV file functional"
+ 3435  git push
+ 3436  git add -A
+ 3437  git commit -m "added comments to code"
+ 3438  git push
+ 3439  git add -A
+ 3440  git commit -m "added more comments"
+ 3441  git push
+ 3442  cd Desktop
+ 3443  ls
+ 3444  cd UW-VIRT-FIN-PT-10-2022-U-B
+ 3445  git pull
+ 3446  git add -A
+ 3447  git commit -m "updated readme"
+ 3448  git push
+ 3449  git add -A
+ 3450  git commit -m "updated part 1 function"
+ 3451  git push
+ 3452  git pull
+ 3453  ../
+ 3454  ls
+ 3455  cd bootcamp-homeworks
+ 3456  ls
+ 3457  cd fintech
+ 3458  ls
+ 3459  git clone "https://github.com/kheller18/qualifying_loan_csv_generator.git"
+ 3460  ../
+ 3461  cd dev-projects
+ 3462  ls
+ 3463  cd projects
+ 3464  ls
+ 3465  cd ssr
+ 3466  git add -A
+ 3467  git commit -m "updated with twitter and instagram feeds"
+ 3468  git add -A
+ 3469  git commit -m "removing spec file"
+ 3470  git push
+ 3471  conda activate dev
+ 3472  pip install fire
+ 3473  pip install questionary
+ 3474  jupyter lab
+ 3475  conda deactivate
+ 3476  ls
+ 3477  cd Desktop
+ 3478  cd UW-VIRT-FIN-PT-10-2022-U-B
+ 3479  git pull
+ 3480  ../
+ 3481  cd bootcamp-homeworks
+ 3482  cd fintech
+ 3483  ls
+ 3484  cd qualifying_loan_csv_generator
+ 3485  git add -A
+ 3486  git commit -m "adding starter files and data"
+ 3487  git push
+ 3488  git add -A
+ 3489  git commit -m "updated readme"
+ 3490  git push
+ 3491  pip install fire
+ 3492  pip install
+ 3493  pip install questionary
+ 3494  conda activate dev
+ 3495  pip install fire
+ 3496  conda deactivate
+ 3497  python3 app.py
+ 3498  pip install --upgrade pip
+ 3499  pip install fire
+ 3500  python3 app.py
+ 3501  pip uninstall fire
+ 3502  ../
+ 3503  cd Users
+ 3504  ls
+ 3505  cd keenanheller
+ 3506  cd Desktop
+ 3507  pip install fire
+ 3508  conda activate base
+ 3509  ls
+ 3510  python3 app.py
+ 3511  which pip
+ 3512  which python
+ 3513  cd "/usr/bin/python"
+ 3514  ../
+ 3515  ls
+ 3516  cd usr
+ 3517  ls
+ 3518  cd bin
+ 3519  ls
+ 3520  pip install fire
+ 3521  conda init zsh
+ 3522  conda --version
+ 3523  conda create -n dev python=3.7 anaconda
+ 3524  conda activate dev
+ 3525  python3
+ 3526  python3 app.py
+ 3527  conda activate dev
+ 3528  python3 app.py
+ 3529  conda activate dev
+ 3530  python3 app.py
+ 3531  conda deactive dev
+ 3532  conda deactivate
+ 3533  git status
+ 3534  python3 app.py
+ 3535  git add -A
+ 3536  git commit -m "base function for interacting with user set up"
+ 3537  git push
+ 3538  git config --global --edit
+ 3539  conda activate dev
+ 3540  python3 app.py
+ 3541  conda deactivate
+ 3542  git add -A
+ 3543  git commit -m "part of function completed"
+ 3544  git push
+ 3545  conda activate dev
+ 3546  python3 app.py
+ 3547  conda deactivate
+ 3548  git add -A
+ 3549  git commit -m "function working to ask user what they would like to do with qualifying loans"
+ 3550  git push
+ 3551  conda activate dev
+ 3552  python3 app.py
+ 3553  git add -A
+ 3554  git commit -m "function completed and working for csv output"
+ 3555  git push
+ 3556  git add -A
+ 3557  git commit -m "added terminal.txt file to illustrate program flow"
+ 3558  git push
+ 3559  git config --global user.name "kheller18"
+ 3560  git config --global user.email "keenanaheller@gmail.com"
+ 3561  git commit --amend --reset-author
+ 3562  conda activate dev
+ 3563  git add -A
+ 3564  git commit -m "deleted lines, added comments"
+ 3565  git add -A
+ 3566  git commit -m "added comments"
+ 3567  git push
+ 3568  git add -A
+ 3569  git commit -m "updated function name and call"
+ 3570  git push

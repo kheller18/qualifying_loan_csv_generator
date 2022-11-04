@@ -2,9 +2,9 @@
 """Loan Qualifier Application.
 
 This is a command line application to match applicants with qualifying loans.
-
+Applicants can then save their lists of loans to a csv file for easy viewing.
 Example:
-    $ python app.py
+    $ python3 app.py
 """
 
 import sys
