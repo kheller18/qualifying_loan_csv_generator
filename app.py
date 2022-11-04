@@ -10,6 +10,7 @@ Example:
 import sys
 import fire
 import questionary
+import csv
 from pathlib import Path
 
 from qualifier.utils.fileio import load_csv
@@ -102,34 +103,34 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
-# def csvWrite(loans):
-#   header = ["loan_price", "remaining_months", "repayment_interval", "future_value"]
-#   output_path = Path("inexpensive_loans.csv")
+def csvWrite(loans, location):
+  header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
+  output_path = Path(f"{location}.csv")
 
-#   with open(output_path, "w") as csvfile:
-#     csvwriter = csv.writer(csvfile, delimiter=",")
-#     csvwriter.writerow(header)
-#     for loan in loans:
-#       csvwriter.writerow(loan.values())
-#   return
+  with open(output_path, "w") as csvfile:
+    csvwriter = csv.writer(csvfile, delimiter=",")
+    csvwriter.writerow(header)
+    for loan in loans:
+      print(f"{loan}")
+      csvwriter.writerow(loan)
+  return
 
-csvWrite(inexp_loans_output)
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
 
     if len(qualifying_loans) == 0:
       print(f"You are not able to qualify for any loans, therefore, there is no file to save")
     elif len(qualifying_loans) > 0:
       user_save = questionary.confirm("Would you like to save your qualifying loans?").ask()
       if user_save == True:
-        # save_location = questionary.
-        print(f"{qualifying_loans}")
+        csvpath = questionary.text("Enter a file path save your potential qualifying loans (.csv):").ask()
+        csvpath = Path(csvpath)
+        # print(f"{qualifying_loans}")
+        csvWrite(qualifying_loans, csvpath)
     return
 
 
