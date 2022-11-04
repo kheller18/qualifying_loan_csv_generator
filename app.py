@@ -7,6 +7,7 @@ Example:
     $ python3 app.py
 """
 
+# import modules below
 import sys
 import fire
 import questionary
@@ -48,12 +49,14 @@ def get_applicant_info():
         Returns the applicant's financial information.
     """
 
+    # asks the users questions about their
     credit_score = questionary.text("What's your credit score?").ask()
     debt = questionary.text("What's your current amount of monthly debt?").ask()
     income = questionary.text("What's your total monthly income?").ask()
     loan_amount = questionary.text("What's your desired loan amount?").ask()
     home_value = questionary.text("What's your home value?").ask()
 
+    # store answers to each question in desired data types
     credit_score = int(credit_score)
     debt = float(debt)
     income = float(income)
