@@ -111,7 +111,6 @@ def csvWrite(loans, location):
     csvwriter = csv.writer(csvfile, delimiter=",")
     csvwriter.writerow(header)
     for loan in loans:
-      print(f"{loan}")
       csvwriter.writerow(loan)
   return
 
