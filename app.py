@@ -103,7 +103,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
-def csvWrite(loans, location):
+def save_csv(loans, location):
   header = ["Lender", "Max Loan Amount", "Max LTV", "Max DTI", "Min Credit Score", "Interest Rate"]
   output_path = Path(f"{location}.csv")
 
@@ -128,7 +128,7 @@ def save_qualifying_loans(qualifying_loans):
       if user_save == True:
         csvpath = questionary.text("Enter a file path save your potential qualifying loans (.csv):").ask()
         csvpath = Path(csvpath)
-        csvWrite(qualifying_loans, csvpath)
+        save_csv(qualifying_loans, csvpath)
     return
 
 
