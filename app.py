@@ -128,7 +128,6 @@ def save_qualifying_loans(qualifying_loans):
       if user_save == True:
         csvpath = questionary.text("Enter a file path save your potential qualifying loans (.csv):").ask()
         csvpath = Path(csvpath)
-        # print(f"{qualifying_loans}")
         csvWrite(qualifying_loans, csvpath)
     return
 
